@@ -1,0 +1,12 @@
+Vakhtang Tsintsadze - The Asian Development Bank report highlights Georgia's attractive business environment, as well as ongoing infrastructure projects, including port and railway projects
+15:29, 10.04.2026
+
+The Asian Development Bank has published the Asian Economic Prospects Report, according to which economic growth in 2025 was quite high - 7.5 percent, and in 2026, against the backdrop of ongoing conflicts, the Asian Development Bank expects economic growth in Georgia to be 5.5 percent, which is an improvement of 0.5 percentage points compared to the previous year's forecast, - said Deputy Minister of Economy and Sustainable Development Vakhtang Tsintsadze.
+
+As the Deputy Minister noted, the Asian Development Bank focuses on reducing the current account deficit to a record low level, as well as on the record high level of international reserves.
+
+According to Vakhtang Tsintsadze, in 2026, the Asian Development Bank expects the average inflation rate in Georgia to be 3.8 percent, which is a decrease compared to the previous year.
+
+“The Asian Development Bank also emphasizes that Georgia aspires to become a trade, logistics and transport hub. In this direction, attention is focused on a number of reforms that contribute, among others, to the improvement of customs and other procedures. The Bank also emphasizes the infrastructural achievements that Georgia has in both the port and railway sectors,” said Vakhtang Tsintsadze.
+
+According to the Deputy Minister of Economy, the ADB report highlights the attractive business environment in Georgia, focusing on the free trade agreements that Georgia has, as well as the mechanisms that ensure investor protection, which ultimately increases the trust and attractiveness of both local and international investors in Georgia.
