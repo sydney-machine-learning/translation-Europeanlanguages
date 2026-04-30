@@ -1,0 +1,14 @@
+BTA_news2
+Bulgarian Airline Association Presents Awards for Contributions to Aviation Heritage and Media Coverage
+(28.04.2026 15:52)
+The Bulgarian Airlines Association (ABA) presented a series of awards recognizing contributions to preserving the historical memory of Bulgarian civil aviation and the professional coverage of aviation-related topics at an official ceremony held at Hotel Vega Sofia on Tuesday.
+Among the recipients was the Archives and Reference Directorate of the Bulgarian News Agency (BTA), which received an award for its contribution to preserving the historical memory of Bulgarian Civil Aviation. The distinction was accepted by the Archives and Reference Directorate Director Desislava Sevova, who said the award was recognition not only of her personal work, but also of the professionalism and efforts of her entire team.
+She noted that the distinction acknowledges the importance of archival work and pays respect to generations of journalists and employees who have contributed to BTA's 128-year history. According to her, true news today creates the history of tomorrow, and the mission of the archive is to preserve it.
+The same award for preserving historical memory was also presented to Anton Mitov from the Archives Directorate of the Bulgarian National Radio.
+ABA also awarded its "Flight" statuette for preserving historical heritage and contribution to the development of Bulgarian civil aviation to the Institute of Air Transport, which this year marks its 55th anniversary. The award was accepted by its manager and honorary ABA chairman Svetoslav Stanulov and presented by the head of the Bulgarian Industrial Capital Association (BICA) Management Board, Rumen Radev.
+The "Flight" statuette for overall contribution and accurate aviation coverage was awarded to 24 Chasa on the occasion of its 35th anniversary. The prize was presented by ABA Chairman Yovko Yotsev and accepted by Ivan Mihalev.
+Zhivko Konstantinov received an award for creating the website Travel Radar and for a series of aviation-themed films. The distinction was presented by Deputy Transport and Communications Minister Dimitar Nedyalkov, who noted that Bulgarian aviation faces a challenging year, while expressing hope that 2026 would repeat the strong results achieved in 2025.
+An award for overall contribution and preserving historical memory also went to Dragomir Draganov of the Bulgarian National Television.
+Additional awards for accurate aviation coverage were presented to Zapryan Zapryanov of Nova Television, Stancho Stanchev of bTV, and the morning programme of Euronews Bulgaria.
+The website Bgtourism.bg received an award for highlighting the connection between tourism and aviation, along with a statuette from airline Electra Airways.
+Miroslav Ivanov, editor-in-chief of TravelNews, was also recognized for accurate reporting on aviation topics.
