@@ -1,6 +1,5 @@
 IPN_news8
-Classification of so-called small wineries is changing: a small winery will be defined as a wine-producing enterprise whose annual output does not exceed 25,000 liters of wine
-(16.04.2026, 16:39)
+Classification of so-called small wineries is changing: a small winery will be defined as a wine-producing enterprise whose annual output does not exceed 25,000 liters of wine (16.04.2026, 16:39)
 The classification of so-called small wineries is being changed — a small winery will now be defined as a wine-producing enterprise whose annual production does not exceed 25,000 liters of wine.
 In addition, organoleptic inspection (sensory evaluation) will become mandatory for all categories of wine produced in Georgia with a protected designation of origin and intended for export or the domestic consumer market. This requirement will not apply to wine produced in small wineries.
 The relevant amendments are being introduced to the Law “On Vine and Wine,” prepared by the Ministry of Environmental Protection and Agriculture. The draft law has been submitted to Parliament by the government.

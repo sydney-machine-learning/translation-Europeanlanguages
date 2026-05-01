@@ -1,6 +1,5 @@
 IPN_news4
-Maka Botchorishvili on Pawel Herczynski - We do not need to polarize society or incite a radical agenda, we do not need either a dark past or similar threats - the government feels best at what crossroads Georgia is
-(27.04.2026, 14:15)
+Maka Botchorishvili on Pawel Herczynski - We do not need to polarize society or incite a radical agenda, we do not need either a dark past or similar threats - the government feels best at what crossroads Georgia is (27.04.2026, 14:15)
 No matter what explanation we hear, facts and actions remain facts and actions. The picture we see is unacceptable, - Foreign Minister Maka Botchorishvili told reporters after a meeting with EU Ambassador Pawel Herczyński.
 According to her, the government feels best at which crossroads Georgia is standing and how much we do not need either the dark past or similar threats.
 “No one can understand and comprehend better than us, the Georgians and the government elected by the Georgian people, the crossroads this country is at. The will of the Georgian people is expressed in the choice of the Georgian government. The government represents the will of the people they are so worried about. Accordingly, the government feels best the crossroads Georgia is at, how much Georgia’s security needs to be cared and how much we need stability. How much we do not need to polarize this society and incite a radical agenda. Also, we do not need either the dark past or similar threats,” said Botchorishvili.

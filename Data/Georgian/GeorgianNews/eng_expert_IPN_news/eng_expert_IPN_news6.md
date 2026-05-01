@@ -1,6 +1,5 @@
 IPN_news6
-Armaz Akhvlediani: The authorities supported Metropolitan Shio, that is clearer than clear - he was and is involved - we saw it, and I suspect we will see it even before the historical Synod begins where the Patriarch is to be elected
-(28.04.2026, 19:50)
+Armaz Akhvlediani: The authorities supported Metropolitan Shio, that is clearer than clear - he was and is involved - we saw it, and I suspect we will see it even before the historical Synod begins where the Patriarch is to be elected (28.04.2026, 19:50)
 “It is possible that by the final session, where the Patriarch is to be selected by the Synod, the configuration may change to some extent. Metropolitan Shio has advanced, but I would not rush and would not make final conclusions,” said politician Armaz Akhvlediani in the program “Resume” on PalitraNews.
 According to Akhvlediani, everything will depend on where the votes of the other two candidates go.
 “The main decision is ahead. Today, the Synod session only selected the candidates; we already know the results of how many votes each received. Let us also not forget that by the final session, where the Patriarch is to be elected, it is not excluded that the configuration may change. However, today it is visible who is ahead – Metropolitan Shio has advanced, but I would not rush or make final conclusions, unlike others.

@@ -1,6 +1,5 @@
 IPN_news5
-Archpriest Andria Jagmaidze: A candidate must not be older than 70; as for education, can someone apply for a job and say: "I don’t have a diploma, but I’m educated"? The Synod must strictly follow the regulations
-(28.04.2026, 12:00)
+Archpriest Andria Jagmaidze: A candidate must not be older than 70; as for education, can someone apply for a job and say: "I don’t have a diploma, but I’m educated"? The Synod must strictly follow the regulations (28.04.2026, 12:00)
 According to the head of the Patriarchate’s Public Relations Service, Archpriest Andria Jagmaidze, the Holy Synod must strictly adhere to the Church’s governing statute when selecting candidates. “In the criteria, we read that the candidate must be Georgian, must be a monk, must be a member of the Synod, must have an education, and regarding age, it is specified that the person must be at least 40 years old and no more than 70. This Synod does not have the authority to change the statute and must strictly follow it,” Jagmaidze stated.
 He emphasized that adherence to established rules is essential for the life of the Church.
 “Today, the Synod will select three candidates for the Patriarchate, and afterward, an enlarged session will be held to elect the Patriarch.
