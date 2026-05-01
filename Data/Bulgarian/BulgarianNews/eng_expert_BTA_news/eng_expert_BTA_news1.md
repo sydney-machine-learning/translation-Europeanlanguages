@@ -1,6 +1,5 @@
 BTA_news1 
-Political Forces Distribute Seats in New Parliament
-(27.04.2026 16:59)
+Political Forces Distribute Seats in New Parliament (27.04.2026 16:59)
 At a meeting in Parliament here on Monday, the political forces allocated their seating in the new 52nd National Assembly. There should be no disputes over chairs, desks, or offices - this is a third-rate issue for us, said Petar Vitanov of Progressive Bulgaria, speaking to journalists after the meeting.
 Regarding the election of a National Assembly chairperson, Vitanov said that good parliamentary practice requires MPs to be informed before the first sitting. “Even if we are ready, the last place I would say it is this early in front of the media,” he noted. According to him, Galab Donev is a suitable candidate because he is sufficiently knowledgeable and authoritative.
 Vitanov pointed out that there is a major problem with the fight for justice. Urgent anti-crisis measures are needed to curb prices, while funds under the Recovery and Resilience Plan are also at risk, he added.

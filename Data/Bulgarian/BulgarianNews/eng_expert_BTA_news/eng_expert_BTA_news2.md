@@ -1,6 +1,5 @@
 BTA_news2
-Bulgarian Airline Association Presents Awards for Contributions to Aviation Heritage and Media Coverage
-(28.04.2026 15:52)
+Bulgarian Airline Association Presents Awards for Contributions to Aviation Heritage and Media Coverage (28.04.2026 15:52)
 The Bulgarian Airlines Association (ABA) presented a series of awards recognizing contributions to preserving the historical memory of Bulgarian civil aviation and the professional coverage of aviation-related topics at an official ceremony held at Hotel Vega Sofia on Tuesday.
 Among the recipients was the Archives and Reference Directorate of the Bulgarian News Agency (BTA), which received an award for its contribution to preserving the historical memory of Bulgarian Civil Aviation. The distinction was accepted by the Archives and Reference Directorate Director Desislava Sevova, who said the award was recognition not only of her personal work, but also of the professionalism and efforts of her entire team.
 She noted that the distinction acknowledges the importance of archival work and pays respect to generations of journalists and employees who have contributed to BTA's 128-year history. According to her, true news today creates the history of tomorrow, and the mission of the archive is to preserve it.
