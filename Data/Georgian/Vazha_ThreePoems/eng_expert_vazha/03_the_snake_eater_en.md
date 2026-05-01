@@ -1,4 +1,4 @@
-I
+I.
 The Khevsuri had come as guests,
 Tsika, their host, had brewed the beer.
 They sat on the flat earth roof and drank,
@@ -144,7 +144,7 @@ of his adventures and his powers.
 
 
 
-II
+II.
 But when spring is in the air,
 the land wakes up; freedom and joy
 waft everywhere, young buds appear,
@@ -216,7 +216,7 @@ to spare the aspen or the beech.
 
 
 
-III
+III.
 When he starts to reap the corn,
 his mind is utterly deranged,
 his shirt hangs open as he cuts
@@ -271,7 +271,7 @@ and call upon the heavenly powers."
 
 
 
-IV
+IV.
 The sacred shrine of Gudani
 draws in pilgrims by the score.
 To mark the day, the Khevsuri
@@ -397,7 +397,7 @@ with no log burning on the grate?
 
 
 
-V
+V.
 Again and again the Khevsuri clash
 with Lezghi, Persians, Chechens, Turks.
 Each time, victorious, their troops return
@@ -413,7 +413,7 @@ Blest is he, whose land gives him thanks.
 
 
 
-VI
+VI.
 A house is perched on a rugged crag,
 its flat roof pressed against the sky,
 gigantic mountains all around
@@ -681,7 +681,7 @@ leather bags with food and drink.
 
 
 
-VIII
+VIII.
 Twilight comes. The gorges darken
 into blackness, and they seem
 as though they were sick to the human eye.
@@ -810,7 +810,7 @@ order everything for the best."
 
 
 
-IX
+IX.
 The clouds burst at midnight, the rain
 swelled the streams, they smashed the gates
 of boulders leading to the gorges.
@@ -828,7 +828,7 @@ while the Aragvi batters the rocks,
 disconsolate and plaintively.
 
 
-X
+X.
 Night made them weep, but the morning saw
 the mists fall asleep on the mountain tops,
 with folded wings and shrouded heads.
@@ -1153,7 +1153,7 @@ we are but human; in times of fear
 it's human that we should be afraid
 for those we love and hold most dear...
 
-XI
+XI.
 The army lined up on the mountainside,
 it gathered together on the field.
 The flash and glitter of guns and swords
@@ -1226,7 +1226,7 @@ the flight of the peregrine falcon's wings,
 and their spear tops' gleaming
 bore along a ray of sunlight.
 
-XII
+XII.
 War has raged for two whole days
 over the mountains: awful torments,
 harsh struggles, a clash of tigers

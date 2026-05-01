@@ -1,4 +1,4 @@
-I
+I.
 Buried in the gloom of night,
 cold and pallid to behold,
 the Chechen country seems to be
@@ -35,7 +35,7 @@ when he finds he is lost in the rocks,
 and it will gladden wolves and thieves
 prowling and roaming in the dark.
 
-II
+II.
 Someone unknown to him has sent
 a boulder tumbling from above.
 The traveller gave an upward glance,
@@ -168,7 +168,7 @@ told many stories as they went
 and got to know each other well.
 
 
-III
+III.
 Thick stone towers came into sight,
 dogs started yapping here and there;
 they had come. From the doorways
@@ -219,7 +219,7 @@ Joqola first, then Zviadauri:
 he had found himself a brother.
 
 
-IV
+IV.
 The man they saw in the house,
 his hair streaked grey, showing his age,
 rose up straightway to his feet,
@@ -322,7 +322,7 @@ and alerted all the people.
 The fox has no more need to search
 if he knows the cockerel's perch.
 
-V
+V.
 "What's up, woman? Get my sword
 and my dagger, this is no joke.
 The enemy's soldiers are storming us,
@@ -481,7 +481,7 @@ be the dead hero's obedient slave,
 plait him bark sandals and draw him water.
 
 
-VI
+VI.
 Beyond the village stands a hill,
 sunburnt, sandy. Many men,
 lion-hearted, thoroughbred, lie here.
@@ -522,7 +522,7 @@ who walk about without a frown.
 And is there a man who would not want
 to see his tormentor annihilated?
 
-VII
+VII.
 Here now is the Chechen's grave,
 the people gather in a circle,
 the mullah reads aloud the prayer
@@ -746,7 +746,7 @@ along the track towards the graves.
 
 
 
-VIII
+VIII.
 "Where are you off to, cursed dog,
 where do you think you're making haste?
 Who'd let you eat a brave warrior's corpse?
@@ -875,7 +875,7 @@ How can I be the judge of this?
 It always has been fitting that
 a woman mourns a good brave man."
 
-IX
+IX.
 Morning came and Aghaza
 drove the cows out of the mountains.
 The birds flew down, for they were flocking
@@ -893,7 +893,7 @@ She does her utmost to conceal
 what she is up to from the people.
 
 
-X
+X.
 The news struck like a thunderbolt
 when it came to Biso village.
 "They have killed our Zviadauri
@@ -937,7 +937,7 @@ Babarauli shouts out,
 The uproar of excited men
 is louder than the sound of pipes.
 
-XI
+XI.
 "Get up, Joqola, come outside,
 don't lie peacefully by the hearth,
 look: what a crowd has gathered round
@@ -983,7 +983,7 @@ dedicated to the fray...
 The others, ready to engage
 the foe, had spread out on the hill.
 
-XII
+XII.
 Down the Khevsuri army comes,
 its banner proudly borne before it;
 they headed for the cemetery,
@@ -1082,7 +1082,7 @@ shed on the breast of a man we've loved.
 
 
 
-XIII
+XIII.
 "You who mourned for a foreigner,
 the Khevsuri have killed your husband.
 Go off, Aghaza, weep for him,
@@ -1118,7 +1118,7 @@ her thick-flowing hair and moon-shaped face
 made her an adorment to her husband,
 like a pearl button on his chest.
 
-XIV
+XIV.
 The night is dark, the rain pelts down,
 all around the earth is trembling.
 God, look after the suffering,
@@ -1172,7 +1172,7 @@ I have shed tears for an alien man."
 The water bore away Aghaza
 and mixed her with the slime and sand.
 
-XV
+XV.
 Above the rock where Joqola
 died fighting off the Khevsuri,
 at nights, a vision can be seen,

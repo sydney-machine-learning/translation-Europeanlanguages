@@ -1,4 +1,4 @@
-I
+I.
 A messenger came to Shatili:
 "The Chechens have struck a blow against us,
 these evil men of evil ways
@@ -128,7 +128,7 @@ God prolong the days of your kin."
 He covered him from head to toe
 with his cloak, and the shield on top.
 
-II
+II.
 The sun had risen in the sky,
 the mists dispersed and left the gorges,
 the demons of the Caucasus
@@ -306,7 +306,7 @@ until the stars of the Bear have set."
 He struck with his heel, Tsitla started,
 surged and moved off like the breeze.
 
-III
+III.
 Dark has fallen. The waters weep,
 the lap of night is hidden from us,
 now is the time of the twinkling stars,
@@ -368,7 +368,7 @@ with hairs that came from a human beard.
 Dreams have tortured me, that is why
 my mind and spirit are upset."
 
-IV
+IV.
 Day is breaking. The peaks have reddened,
 the mists have furled up on the hills,
 the village rises and awakens,
@@ -425,7 +425,7 @@ unless his right is hacked off with a knife!'
 Woe to your idea of justice,
 it is a sin for a man baptized."
 
-V
+V.
 The feast days of the Lord had come,
 the people were flocking to the shrine,
 they want to let the spirit know
@@ -591,7 +591,7 @@ The Chechen's right hand
 was fixed by the children to a crooked stick
 and dragged along across the ground.
 
-VI
+VI.
 Falling snow and raging winds
 have covered up the mountain passes,
 landslides sweep down through the gorge,
