@@ -12,7 +12,7 @@
    - Google Translate ...
    - Expert Translation ...
 
-### Structure of datasets
+### (Current) Structure of datasets
 ```
 translation-Europeanlanguages/
 ├── Data/
@@ -42,6 +42,43 @@ translation-Europeanlanguages/
 │           ├── gem_vazha/               
 │           ├── ggl_vazha/               
 │           ├── gpt_vazha/ 
+|
+├── ...
+├── ...
+└── README.md
+```
+
+### (version 2) Structure of datasets
+```
+translation-Europeanlanguages/
+├── Data/
+|   ├── original/
+│       ├── bul/
+│          ├── BaiGanyo/
+│          └── BTA_News/
+│       ├── ge/
+│          ├── Vazha_ThreePoems/
+│          └── IPN_News/
+|   ├── en/
+│       ├── BaiGanyo/
+│       ├── BTA_News/
+│       ├── Vazha/
+│       └── IPN_News/
+|   ├── gem/
+│       ├── BaiGanyo/
+│       ├── BTA_News/
+│       ├── Vazha/
+│       └── IPN_News/
+|   ├── ggl/
+│       ├── BaiGanyo/
+│       ├── BTA_News/
+│       ├── Vazha/
+│       └── IPN_News/
+|   ├── gpt/
+│       ├── BaiGanyo/
+│       ├── BTA_News/
+│       ├── Vazha/
+│       └── IPN_News/
 |
 ├── ...
 ├── ...
