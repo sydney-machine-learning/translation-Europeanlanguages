@@ -7,12 +7,12 @@
 - #### Bulgarian Texts ...
 
 - #### Evaluated Translation Systems
-   - GPT ...
-   - Gemini ...
-   - Google Translate ...
-   - Expert Translation ...
+   - GPT _(specify the model)_
+   - Gemini _(specify the model)_
+   - Google Translate _(more details)_
+   - Human Expert Translation 
 
-### (Current) Structure of datasets
+### (Current) Structure of dataset directory 
 ```
 translation-Europeanlanguages/
 ├── Data/
@@ -48,33 +48,33 @@ translation-Europeanlanguages/
 └── README.md
 ```
 
-### (version 2) Structure of datasets
+### (version 2) Structure of dataset directory 
 ```
 translation-Europeanlanguages/
 ├── Data/
-|   ├── original/
-│       ├── bul/
-│          ├── BaiGanyo/
-│          └── BTA_News/
-│       ├── ge/
-│          ├── Vazha_ThreePoems/
-│          └── IPN_News/
-|   ├── en/
+|   ├── original/                      # Original texts
+│       ├── bul/                            # Bulgarian
+│          ├── BaiGanyo/                        # Literary work
+│          └── BTA_News/                        # News acticles 
+│       ├── ge/                             # Georgian
+│          ├── Vazha_ThreePoems/                # Literary work
+│          └── IPN_News/                        # News acticles 
+|   ├── en/                             # English translations by human experts 
 │       ├── BaiGanyo/
 │       ├── BTA_News/
 │       ├── Vazha/
 │       └── IPN_News/
-|   ├── gem/
+|   ├── gem/                             # Gemini translations
 │       ├── BaiGanyo/
 │       ├── BTA_News/
 │       ├── Vazha/
 │       └── IPN_News/
-|   ├── ggl/
+|   ├── ggl/                            # Google Translate translations
 │       ├── BaiGanyo/
 │       ├── BTA_News/
 │       ├── Vazha/
 │       └── IPN_News/
-|   ├── gpt/
+|   ├── gpt/                            # GPT translations
 │       ├── BaiGanyo/
 │       ├── BTA_News/
 │       ├── Vazha/
