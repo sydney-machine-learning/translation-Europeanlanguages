@@ -7,9 +7,9 @@
 - #### Bulgarian Texts ...
 
 - #### Evaluated Translation Systems
-   - GPT _(specify the model)_
-   - Gemini _(specify the model)_
-   - Google Translate _(more details)_
+   - GPT _(current model="gpt-5.4-mini")_
+   - Gemini _(current model="gemini-3-flash-preview")_
+   - Google Translate _(2026)_
    - Human Expert Translation 
 
 ### (Current) Structure of dataset directory 
