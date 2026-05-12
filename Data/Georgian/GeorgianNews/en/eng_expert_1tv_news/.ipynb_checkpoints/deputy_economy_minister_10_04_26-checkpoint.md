@@ -1,0 +1,12 @@
+Deputy Economy Minister: ADB highlights Georgia's favourable business climate and infrastructure ambitions as growth forecast upgraded
+15:43, 10.04.2026
+ 
+“The Asian Development Bank (ADB) has published its Asian Economic Outlook report, highlighting Georgia’s strong economic growth of 7.5% in 2025. For 2026, against a backdrop of ongoing regional conflicts, the ADB projects growth of 5.5 per cent, an improvement of 0.5 percentage points on the previous forecast,” Vakhtang Tsintsadze, Deputy Minister of Economy and Sustainable Development, has stated.
+
+The Deputy Minister noted that the report draws particular attention to Georgia’s current account deficit, having fallen to a record low, alongside international reserves reaching a record high.
+
+For 2026, the ADB expects average inflation in Georgia to stand at 3.8 per cent, reducing the previous year’s figure.
+
+“The Asian Development Bank also emphasises that Georgia is striving to establish itself as a trade, logistics, and transport hub. In this regard, the report highlights a series of reforms facilitating improvements to customs procedures and related processes. The Bank further underscores Georgia’s infrastructure achievements, both in port development and rail connectivity,” said Vakhtang Tsintsadze.
+
+According to the Deputy Minister, the ADB report singles out Georgia’s attractive business environment for particular praise, drawing attention to the country’s free trade agreements, as well as the mechanisms in place to safeguard investors’ interests, all of which, taken together, serve to strengthen the confidence of both domestic and international investors and enhance Georgia’s appeal as an investment destination.

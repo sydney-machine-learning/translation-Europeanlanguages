@@ -1,0 +1,12 @@
+Vespers of the Descent from the Cross observed at Holy Trinity Cathedral [photo]
+16:37, 10.04.2026
+ 
+The traditional Vespers of the Descent from the Cross have been performed at the Holy Trinity Patriarchal Cathedral. The service symbolically re-enacts the burial and lamentation of the crucified Jesus Christ.
+
+The Locum Tenens of the Patriarchal Throne, Metropolitan Shio of Senaki and Chkhorotsku (Mujiri), together with fellow bishops, conducted the vespers.
+
+Today is Good Friday, the most solemn day of Holy Week. The Orthodox Church commemorates the crucifixion of Jesus Christ, His descent from the Cross, and His burial.
+
+No Divine Liturgy is celebrated on Good Friday, for according to the Gospel, the Lord offered Himself as a sacrifice for the redemption of humanity from sin. In its place, the Royal Hours are observed, during which the Passion narrative is read from the Gospels.
+
+The faithful mark the day by dyeing eggs red and baking Easter breads, for according to the Gospel, the crucifixion of Jesus Christ took place during the Jewish Passover.
