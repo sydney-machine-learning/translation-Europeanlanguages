@@ -180,7 +180,6 @@ to flesh and bone beset by ills.
 Thus act the flowers, but the trees
 weep and Mindia alone
 understands their moans and cries.
-
 Their weeping made his life upset:
 he took his axe up to a tree
 said, "This is the one that I must fell,"
@@ -200,6 +199,7 @@ or straw or dung. He now makes do
 with any fallen twigs he finds,
 nevertheless gives thanks to God,
 when the day begins and when it ends.
+
 
 
 
