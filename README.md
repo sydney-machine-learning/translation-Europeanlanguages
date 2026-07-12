@@ -2,9 +2,7 @@
 
 ### Project Overview
 
-- #### Georgian Texts ...
-
-- #### Bulgarian Texts ...
+- #### Georgian, Bulgarian and Russian Texts ...
 
 - #### Evaluated Translation Systems
    - GPT _(current model="gpt-5.4-mini")_
@@ -12,43 +10,44 @@
    - Google Translate _(2026)_
    - Human Expert Translation 
 
-### (Current) Structure of dataset directory 
+### Dataset directory layout 
 ```
 translation-Europeanlanguages/
 ├── Data/
 |   ├── Bulgarian/
-│       ├── BaiGanyo/                       
-│           ├── bul_original_baiganyo/      
-│           ├── eng_expert_baiganyo/        
-│           ├── gem_baiganyo/               
-│           ├── ggl_baiganyo/               
-│           ├── gpt_baiganyo/               
-│       ├── BulgarianNews/
-│           ├── bul_origianl_BTA_news/
-│           ├── eng_expert_BTA_news/
-│           ├── gem_BTA_news/               
-│           ├── ggl_BTA_news/               
-│           ├── gpt_BTA_news/
+│       ├── BaiGanyo/				# Literary work   
+│           ├── en/      					   # English translations by human experts
+│           ├── gem/        				   # Gemini translations
+│           ├── ggl/               		   # Google Translate translations
+│           ├── gpt/               		   # GPT translations
+│           ├── orig/						   # Original text               
+│       ├── BulgarianNews/			# News acticles
+│           ├── en/
+│           ├── gem/
+│           ├── ggl/               
+│           ├── gpt/               
+│           ├── orig/
 │   ├── Georgian/
-│       ├── GeorgianNews/
-│           ├── eng_expert_IPN_news/      
-│           ├── ge_original_IPN_news/        
-│           ├── gem_IPN_news/               
-│           ├── ggl_IPN_news/               
-│           ├── gpt_IPN_news/ 
-│       ├── Vazha_ThreePoems/
-│           ├── eng_expert_vazha/      
-│           ├── ge_original_vazha/        
-│           ├── gem_vazha/               
-│           ├── ggl_vazha/               
-│           ├── gpt_vazha/ 
+│       ├── GeorgianNews/			# News acticles
+│           ├── en/      
+│           ├── gem/        
+│           ├── ggl/               
+│           ├── gpt/               
+│           ├── orig/ 
+│       ├── Vazha_ThreePoems/		# Literary work 
+│           ├── en/      
+│           ├── gem/        
+│           ├── ggl/               
+│           ├── gpt/               
+│           ├── orig/
+
 |
 ├── ...
 ├── ...
 └── README.md
 ```
 
-### (version 2) Structure of dataset directory 
+### (version 2) Dataset directory layout 
 ```
 translation-Europeanlanguages/
 ├── Data/
