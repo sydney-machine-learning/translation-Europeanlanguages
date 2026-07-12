@@ -17,10 +17,10 @@ translation-Europeanlanguages/
 |   ├── Bulgarian/
 │       ├── BaiGanyo/				# Literary work   
 │           ├── en/      					   # English translations by human experts
-│           ├── gem/        				   # Gemini translations
-│           ├── ggl/               		   # Google Translate translations
-│           ├── gpt/               		   # GPT translations
-│           ├── orig/						   # Original text               
+│           ├── gem/      					   # Gemini translations
+│           ├── ggl/      					   # Google Translate translations
+│           ├── gpt/      					   # GPT translations
+│           ├── orig/      					# Original text               
 │       ├── BulgarianNews/			# News acticles
 │           ├── en/
 │           ├── gem/
