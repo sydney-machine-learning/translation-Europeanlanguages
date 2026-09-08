@@ -1,0 +1,32 @@
+text,love,joy,anger,sadness,fear,surprise,neutral
+Why did you take my watch?,0,1,0,0,0,0,1
+Where are you going?,0,1,0,0,0,0,1
+You gave me your word. I believed you.,1,0,0,0,0,0,0
+"You won't think of yourself.
+But what about us?",0,1,0,0,0,0,1
+Think about your daughter.,0,0,0,0,0,0,1
+"She hasn't even gotten used to you yet,
+And you will return to your old ways.",0,0,0,0,0,0,1
+"You turned me into an old hag, destroyed my life.",0,0,1,1,0,0,0
+"Quiet. You will wake up, monkey.",0,0,0,0,0,0,1
+"I cannot spend my life waiting for you.
+I will die.",0,0,0,1,0,0,0
+You were going to get the right job.,1,0,0,0,0,0,0
+"They promised you a decent, normal job.",1,0,0,0,0,0,1
+I'll be back soon.,0,1,0,0,0,0,1
+You will return to prison.,0,0,0,0,0,0,1
+Next time they will give you ten years instead of five.,0,0,0,0,0,0,1
+And you have nothing to show for these ten years.,0,0,0,0,0,0,1
+"Not a zone, not anything.",0,0,1,0,0,0,1
+And in ten years I will die.,0,0,0,0,0,0,1
+"""Prison""? I am imprisoned everywhere.",0,0,0,0,0,0,1
+"Let me go.
+- I won't let you go.",0,0,0,0,0,0,1
+"- Let me go.
+- I won't!",0,0,1,0,0,0,1
+Then continue!,0,0,0,0,0,0,1
+And let you rot there!,0,0,0,0,0,0,1
+"I curse the day I met you, you gloomy one!",0,0,1,0,0,0,0
+God cursed you by sending you this child.,0,0,1,0,0,0,0
+"And he cursed me because of you. 
+You bastard!",0,0,1,0,0,0,0

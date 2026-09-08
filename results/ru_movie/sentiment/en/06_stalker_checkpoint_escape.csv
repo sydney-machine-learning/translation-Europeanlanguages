@@ -1,0 +1,8 @@
+text,love,joy,anger,sadness,fear,surprise,neutral
+Get down!,0,0,1,0,0,0,1
+Keep still!,0,0,0,0,0,0,1
+See if anyone's there.,0,0,0,0,0,0,1
+"Hurry, for God's sake!",1,0,0,0,0,0,0
+There's nobody here.,0,0,0,0,0,0,1
+Go to the other door.,0,0,0,0,0,0,1
+"Get going, Writer.",0,0,0,0,0,0,1
