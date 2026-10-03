@@ -1,44 +1,46 @@
 Article ID,Article Name,Paragraph,English - Google,English - Gemini,English - ChatGPT,Original,English,Google,Gemini,ChatGPT
 7,Stalker Train To Zone,1,1.0,1.0,1.0,Держите глаза открытыми.,Keep your eyes open.,Keep your eyes open.,Keep your eyes open.,Keep your eyes open.
-7,Stalker Train To Zone,2,0.8474079,0.94161224,0.91963255,Вы принесли бензин?,Did you bring the gasoline can?,Did you bring gas?,Did you bring the gasoline?,Did you bring gasoline?
+7,Stalker Train To Zone,2,0.8474079,0.94161224,0.9416122,Вы принесли бензин?,Did you bring the gasoline can?,Did you bring gas?,Did you bring the gasoline?,Did you bring the gasoline?
 7,Stalker Train To Zone,3,0.7057749,0.70577496,0.70577496,Да. Полный.,Yes. A full one.,Yes. Full.,Yes. Full.,Yes. Full.
-7,Stalker Train To Zone,4,0.44257414,1.0,0.9187902,"Что я сказал о том, чтобы пойти туда ...",What I said about going there...,What did he tell her about going there...,What I said about going there ...,What did I say about going there ...
-7,Stalker Train To Zone,5,0.9843518,0.9843518,0.95972323,"Это все ложь.
+7,Stalker Train To Zone,4,0.44257414,1.0,0.9187902,"Что я сказал о том, чтобы пойти туда ...",What I said about going there...,What did he tell her about going there...,What I said about going there...,What did I say about going there ...
+7,Stalker Train To Zone,5,0.9843518,0.9622842,0.95972323,"Это все ложь.
 Мне наплевать на вдохновение.","It's all a lie.
 I don't give a damn about inspiration.","It's all a lie.
-I don't care about inspiration.","It's all a lie.
+I don't care about inspiration.","It’s all a lie.
 I don't care about inspiration.","This is all a lie.  
 I don’t care about inspiration."
-7,Stalker Train To Zone,6,0.6634358,0.8072897,0.80728966,Но как я могу поместить имя ...,But how can I put a name to...,But how can I place her name ...,But how can I put the name...,But how can I put the name ...
-7,Stalker Train To Zone,7,0.91661996,0.9166201,0.8712479,... что я хочу?,...what it is that I want?,... what do I want?,... what do I want?,… what do I want?
-7,Stalker Train To Zone,8,0.56517035,0.75935614,0.7222088,"Как я знаю, я не хочу то, что хочу",How am I to know I don't want what I want,"How do I know her, I don't want her, what I want","As far as I know, I don't want what I want.","As I know, I do not want what I want."
-7,Stalker Train To Zone,9,0.7320704,0.7647977,0.74126095,"или что я действительно не хочу
+7,Stalker Train To Zone,6,0.6634358,0.82126737,0.80728966,Но как я могу поместить имя ...,But how can I put a name to...,But how can I place her name ...,But how can I place the name...,But how can I put the name ...
+7,Stalker Train To Zone,7,0.91661996,0.91661996,0.91661996,... что я хочу?,...what it is that I want?,... what do I want?,... what do I want?,... what do I want?
+7,Stalker Train To Zone,8,0.56517035,0.75935614,0.74001104,"Как я знаю, я не хочу то, что хочу",How am I to know I don't want what I want,"How do I know her, I don't want her, what I want","As far as I know, I don't want what I want.","As far as I know, I do not want what I want."
+7,Stalker Train To Zone,9,0.7320704,0.76721716,0.87434494,"или что я действительно не хочу
 Чего я не хочу?","or that I really don't want
 what I don't want?","or that I really don't want her
 Why don't I want her?","or what I really don't want
-What do I not want?","or what I really don’t want  
-What don’t I want?"
-7,Stalker Train To Zone,10,0.69537646,0.747338,0.7766832,"Это нематериальные активы, где
+What don't I want?","or that I really do not want  
+What do I not want?"
+7,Stalker Train To Zone,10,0.69537646,0.72030544,0.7766832,"Это нематериальные активы, где
 В тот момент, когда вы называете их,","These are intangibles where
 the moment you name them,","This is intangible assets, where
-The moment you call them,","These are intangible assets where, at the moment you name them,","These are intangible assets, where  
+The moment you call them,","These are intangible assets, where
+At the moment you name them,","These are intangible assets, where  
 At the moment when you name them,"
-7,Stalker Train To Zone,11,0.60500824,0.8122475,0.8122475,"Их значение испаряется
+7,Stalker Train To Zone,11,0.60500824,0.99507153,0.99507153,"Их значение испаряется
 Как медуза на солнце.","their meaning evaporates
 like jellyfish in the sun.","Their importance evaporates
-Like a jellyfish in the sun.","Their significance evaporates
-Like a jellyfish in the sun.","Their significance evaporates  
+Like a jellyfish in the sun.","Their meaning evaporates
+Like a jellyfish in the sun.","Their meaning evaporates  
 Like a jellyfish in the sun."
-7,Stalker Train To Zone,12,1.0,0.95123565,0.95123565,Вы видели их вокруг.,You've seen them around.,You've seen them around.,You have seen them around.,You have seen them around.
+7,Stalker Train To Zone,12,1.0,1.0,0.95123565,Вы видели их вокруг.,You've seen them around.,You've seen them around.,You've seen them around.,You have seen them around.
 7,Stalker Train To Zone,13,0.8035197,1.0000001,1.0000001,"Мое сознание
 хочет триумф вегетарианства.","My consciousness
 wants the triumph of vegetarianism.","My knowledge
-wants to triumph vegetarianism.",My consciousness wants the triumph of vegetarianism.,"My consciousness
+wants to triumph vegetarianism.","My consciousness
+wants the triumph of vegetarianism.","My consciousness
 wants the triumph of vegetarianism."
-7,Stalker Train To Zone,14,0.97400993,0.97400993,0.97401,Мое подсознание жаждет сочного стейка.,My subconscious longs for a juicy steak.,My subconscious craves a juicy steak.,My subconscious craves a juicy steak.,My subconscious craves a juicy steak.
-7,Stalker Train To Zone,15,0.9999998,0.973642,0.9999998,Так чего я хочу?,So what do I want?,So what do I want?,"So, what do I want?",So what do I want?
-7,Stalker Train To Zone,16,0.99226093,0.91237706,1.0000002,"Я хочу мирового превосходства, по крайней мере.","I want world supremacy, at the very least.","I want world supremacy, at least.","I want world domination, at least.","I want world supremacy, at the very least."
-7,Stalker Train To Zone,17,1.0000001,1.0000001,1.0,Зачем им нужны поезд в зоне?,Why do they need a train in the Zone?,Why do they need a train in the zone?,Why do they need a train in the zone?,Why do they need a train in the zone?
+7,Stalker Train To Zone,14,0.97400993,0.97400993,0.97400993,Мое подсознание жаждет сочного стейка.,My subconscious longs for a juicy steak.,My subconscious craves a juicy steak.,My subconscious craves a juicy steak.,My subconscious craves a juicy steak.
+7,Stalker Train To Zone,15,0.9999998,0.9999998,0.9999998,Так чего я хочу?,So what do I want?,So what do I want?,So what do I want?,So what do I want?
+7,Stalker Train To Zone,16,0.99226093,0.87587845,1.0000002,"Я хочу мирового превосходства, по крайней мере.","I want world supremacy, at the very least.","I want world supremacy, at least.","I want world superiority, at least.","I want world supremacy, at the very least."
+7,Stalker Train To Zone,17,1.0000001,1.0000001,1.0,Зачем им нужны поезд в зоне?,Why do they need a train in the Zone?,Why do they need a train in the zone?,Why do they need a train in the Zone?,Why do they need a train in the zone?
 7,Stalker Train To Zone,18,0.90853316,0.90285736,0.90789974,"Это не выйдет за пределы военного поста.
 Охранники не выйдут там.","It won't go beyond the military post.
 The guards won't venture in there.","This will not go beyond the military post.

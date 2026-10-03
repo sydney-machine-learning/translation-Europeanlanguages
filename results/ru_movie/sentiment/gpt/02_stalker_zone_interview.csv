@@ -1,12 +1,11 @@
 text,love,joy,anger,sadness,fear,surprise,neutral
-"It was a meteorite  
-Or a visit from space?",0,1,0,0,0,0,1
-"Whatever it was, in our small country,  
-a miracle appeared — a zone.",0,0,0,0,0,0,1
+"""It was a meteorite  
+Or a visit from space?""",0,1,0,0,0,0,1
+"Whatever it was, in our little country,
+a miracle appeared — the Zone.",0,1,0,0,0,0,1
 We sent troops. None returned.,0,0,0,0,0,0,1
-"Then we surrounded the area
-with security.",0,0,0,0,0,0,1
-We did it right ...,1,0,0,0,0,0,1
-"Although I’m not sure. I’m not sure.""",0,0,0,0,0,1,0
+Then we surrounded the area with guards.,0,0,0,0,0,0,1
+We did the right thing ...,1,0,0,0,0,0,0
+"Although I'm not sure. I'm not sure.""",0,0,0,0,0,1,0
 "From an interview with the Nobel Prize laureate  
 Professor Wallace for the RAI correspondent.",0,0,0,0,0,0,1

@@ -1,219 +1,411 @@
 text,love,joy,anger,sadness,fear,surprise,neutral
-"I. The Khevsurians were at the guest-house, beer was brewing in the vessel;
-They sat upon the flat roof and feasted, drinking it from bowls;
+"I. The Khevsurians were at the guest-house, beer brewed in the cauldron;
+They sat upon the flat roofs and feasted, drinking it from bowls;
 Some played the panduri, singing loudly to its tune,
-Laying heroic tales as a bridge to the listeners' souls;
-With fervor, they sacredly recounted the names of heroes in verse;
-The elders smoked their pipes, the smoke enveloping them like mist,
-They interpreted their deeds and offered blessings to the heroes' spirits.
-To instruct the youth, they recalled them with praise:
-""It is up to you now, whoever among you shall prove to be a man!""",0,0,0,0,0,0,1
-"In the gathering, one man appears, pale-faced and calm; like insects to honey, young and old swarm around him. A sword is girded at his somber waist, a shield hangs from his shoulder. Before his knees, two bareheaded men sit kneeling; they offer him bowls, scooping black beer from a large wooden basin. “Drink, Mindia,” they say to him, “it is good beer, full of hops; tell us something, by the grace of God, a wise Georgian word.”",0,0,0,0,0,0,1
-"– What can I tell you, men, while drunk? The drink has mastered my mind; let what is to be said remain for next time, if death spares me the time. – He raised the *karakhana*, tipped it back, and drained it dry.",0,1,0,0,0,0,1
-"Having returned from captivity, he delighted in the company of his brothers; like many others, he too would grow drunk on beer.",0,1,0,0,0,0,0
-"About this Mindia, they told unbelievable tales: for twelve years, it is said, the Kajis held him captive.",0,0,0,0,0,0,1
-"Captivity and being away from his homeland weighed heavily upon him; time passed, many Easters and Christmases went by, but there was no end to Mindia’s captivity. Slavery withered his heart, and his soul yearned to depart. He recalled his snow-capped mountains, the darkened ravines, and the rugged paths; his mother, father, and brothers mourning his fate; his humble hut, which to him seemed like paradise. Many times he had fervently prayed to the icons and God for help.",0,0,0,0,0,0,1
-"At last he said: ""I will kill myself, it is better than such a life!"" He saw a pot set upon the fire for the Kajis' dinner. He knew they were boiling a snake, for they ate it often; the Kajis, by their sorcerous nature, could endure eating the serpent, and he thought to himself that for him, it would be a fatal plague.",0,0,0,0,0,0,1
-"He took a single piece, with loathing and in secret he ate it, and in that moment, Heaven looked down upon the captive with a merciful eye: a new soul was breathed into him, he was clothed in new flesh; the vision of his heart and eyes was opened, as if he had been blind and deaf. From this day forth, he hears everything—the songs of birds, the voices of plants and animals, when they rejoice and when they suffer. Whatever the Lord has created, animate or inanimate, it turns out they all have a language; none were without a soul.",0,0,0,0,0,0,1
-"He feels this, and the captive himself is amazed by the change in his nature. He realized that the eating of the snake was a vision from the Kajis. They presented wisdom in the form of a snake so that he would find it loathsome to eat, though they did not hesitate to say, ""You eat too, Mindia.""",0,0,0,0,0,1,0
-"Henceforth, the prisoner grasped the wisdom of the Kajis;
-The sky, the earth, and the forest began to converse with him.
-Only evil could find no footing within his heart,
-But every other Kaji trick he mastered.
-He fears nothing now, even should a thunderbolt strike his head.
-The Kajis rage to see it—the peasant has become enlightened.
-Captivity scares him no more, nor do the Kaji's wiles;
-Today or tomorrow, he hopes, to give the Kajis a swift kick.",0,0,0,0,0,0,1
-"He is swift as a bullet, mystical as a serpent,
-All of Pshav-Khevsureti worships him and holds him as their solace,
-The crowned Queen Tamar always says this:
+Laying heroic tales as a bridge to the listeners' feelings;
+With fervor, they recited the sacred names of heroes in verse;
+The elders smoked their pipes, smoke wrapped around them like mist,
+They recounted their deeds, offering blessings for the heroes.
+To instruct the young, they remembered them with praise:
+""It is for you to show, who among you shall prove to be a man from this day forth!""",0,0,0,0,0,0,1
+"In the assembly, someone appears, pale-faced and calm; like insects to honey, young and old swarm around him. A sword is girt at his somber waist, a shield hangs by his shoulder. Before his knees, two bareheaded men sit kneeling; they offer him bowls, taking black beer from a large basin.
+— Drink, Mindia, — they say, — it is good beer, hoppy; tell us something, by God’s grace, something Georgian and wise.",1,0,0,0,0,0,1
+"– What should I tell you while drunk, men? The drink has mastered my wits; let what is to be said remain for later, if death spares me. – He raised the karakhana, tilted it back, and emptied it.",0,1,0,0,0,0,1
+"Returned from captivity, he delighted in being among brothers, like many others, he too grew drunk on beer.",0,1,0,0,0,0,0
+"Of this Mindia they told unbelievable tales:
+Mindia had been held captive for twelve years, it is said, by the Kajis.",0,0,0,0,0,0,1
+"Captivity and being away from his homeland greatly oppressed him;
+Time passes, many Easters and Christmases have gone by,
+But Mindia's captivity saw no end,
+Slavery melted his heart, his soul yearns to depart.
+He remembered his snow-covered mountains,
+Darkened ravines, uneven paths,
+His mother, father, and brothers mourning his fate,
+His humble hut, to him a paradise,
+Many times he fervently prayed to God and the icons for their salvation.",0,0,0,0,0,0,1
+"Finally he said: ""I will kill myself, it is better than such a life!""
+He saw a pot placed on the fire for the Kajis' dinner.
+He knew they were boiling a snake, which they ate often;
+The Kajis, by their nature, could endure taking the snake into their mouths,
+And he thought to himself that for him, it would turn into a fatal plague.",0,0,0,0,0,0,1
+"He took one piece, with disgust, stealthily ate it,
+and at that moment, the heavens looked down upon the captive with a merciful eye:
+a new soul was breathed into him, he was clothed in new flesh;
+the vision of his heart and eyes, as if for the blind and deaf, was opened.
+From this day forth, he hears everything that the birds sing,
+or the plants and animals, when they rejoice or when they suffer.
+Whatever the Lord has created, animate or inanimate,
+it seems they all possess a language; none were without a soul.",0,0,0,0,0,0,1
+"He feels this, and the captive himself marvels at the change in his nature.
+He realized that eating the snake was a vision from the Kajis.
+They showed him wisdom in the form of a snake, so that he would loathe it as food,
+Though they did not hesitate to say, ""You eat too, Mindia.""",0,0,0,0,0,0,1
+"The captive has now grasped the wisdom of the Kajis;
+The sky, the earth, and the forest have begun to converse with him.
+Only evil failed to take root within his heart,
+Yet every other Kaji craft and trick he has mastered.
+He fears nothing now, though a thunderbolt may strike his head.
+The Kajis are enraged to see that the peasant has become learned.
+Neither captivity nor Kaji ruses frighten him anymore;
+Today or tomorrow, he hopes, he shall give the Kajis a kick.",0,0,0,0,0,0,1
+"Swift as a bullet, mystical as a snake,
+All of Pshav-Khevsureti deifies him and sees him as solace,
+The crowned Tamar is always saying this:
 “As long as I have Mindia with me, and with him the mountain folk,
-No matter how hard the enemy tries, they can never harm me.”
-He knows the tactics to defeat and crush the enemy;
-If he reaches the wounded while they still live, they need not fear death.
-His peerless medicine can heal even one cut in two;
-Because of this, his ranks never thin in war, and his army is always vast;
-The story of his adventures has traveled far and wide.",1,0,0,0,0,0,1
+No matter how hard the enemy tries, they can do me no harm.”
+He knows the tricks to defeat and crush the enemy;
+If he reaches the wounded while they still live, let them have no fear of death.
+His peerless medicine will heal even one cut in two;
+Thus his numbers do not dwindle in wars, he always has a vast army;
+The tale of his adventures has traveled far and wide.",1,0,0,0,0,0,1
 "II. Whenever spring arrives, the world awakens:
-Carefreeness and joy wander everywhere.
-Shoots appear, flowers embrace the greenery,
-Mindia attentively roams over mountain and field.
+Carefreeness and joy stroll everywhere.
+Buds appear, flowers embrace the green,
+Mindia, with keen attention, wanders all over the mountains and fields.
 Every plant and insect he greets with a salutation,
-Nature too shouts ""Hurrah"" with a richly adorned banner,
-Flowers with heads tossed back, as if painted by a pen,
-""Long live Mindia!"" they raise a clamor in unison,
-Trees sway their leaves, nature begins to rustle,
+Nature too cries ""Hurrah!"" with richly adorned banners,
+Flowers with necks arched back, as if painted with a pen,
+""Long live Mindia!"" they clamor in unison,
+Trees sway their leaves, nature begins to ripple,
 And then, one by one, they all begin to chatter:
 ""I am the cure for t h i s""; another cries out – ""for t h a t"";
-Mindia plucks them and takes them along, while they still bear the morning dew.",0,0,0,0,0,0,1
-"Flowers, it seems, possess this nature: as long as they can heal the sick, they care nothing for their own life-pampered bodies; they deem it a joy, for the benefit of man, to offer their broken flesh and bone. Such is the nature of flowers, and trees, it seems, are moved to tears; Mindia alone hears their moans and their laments. Because of this, his life is greatly hollowed: he approached a tree with an axe, saying, ""I must fell this one!"" He strikes with the axe, and in that moment, he hears the tree’s groan: ""Do not kill me, my Mindia, do not darken the sun for me! Is it because I am unarmed that you treat me, a tree, so cruelly?"" His arms grow weak, he gazes blankly at the sky. He turns to another tree, but it groans even louder. He returns empty-handed, unable to bring back firewood; and so the fire does not die upon the embers, he lights hay or straw, dried stalks, and adds dry grass; if he finds dry twigs anywhere, he does not disdain them. Still, he thanks God, nonetheless, every evening and every morning.",0,0,0,0,0,0,1
-"He advises others the same: “Men, come, do not commit this sin; do not cut down the tree, let us be content with stumps and a few dry twigs.” No one listens; they call his advice a delusion: “God has created it for our benefit and use!” And even today, no one spares the poplar and the beech from being slain.",0,0,0,0,0,0,1
-"III. When he begins to reap the field, he is mad, frenzied: he cuts one stalk here, another there, his chest heaving; he tramples the field entirely, shreds it, lays it waste; as long as there is strength in his arm, he spins like a whirligig, and when he is exhausted, he sprawls out upon the earth.",0,0,0,0,0,0,1
-"If you ask: ""Why do you do this?"" he will answer you:
-– ""What are you saying, men? You do not understand, and that is why you judge my conduct.
+Mindia plucks them, takes them along, while they still bear the morning dew.",0,0,0,0,0,0,1
+"Flowers, it seems, have this nature: if only they might heal the sick, they disregard their life-pampered bodies; they deem it a joy, for the benefit of man, their crumbling flesh and bone. Flowers have this nature, and the trees, it seems, are moved to weeping; Mindia alone hears their moaning and lament. Because of this, his life is very impoverished: he approached a tree with an axe, saying: “I must fell this one!” He strikes with the axe, and at that moment he hears the tree's groan: “Do not kill me, my Mindia, do not darken the sun for me; because I am unarmed, is that why you treat me, a tree, so cruelly?!” His arms grow weak, he gazes blankly at the sky. He turns to another tree, but it begins to moan even louder. He returns empty-handed, unable to bring firewood; and so that the fire upon the embers does not die, he burns hay or straw, dried stalks, adding dry grass to the flame; if he finds dry twigs anywhere, he does not disdain those either. Still he gives thanks to God, still, in the evening and in the morning.",0,0,0,0,0,0,1
+"He advises others the same: “Men, come, do not commit a sin; do not cut the tree, let us be content with stumps and a few dry twigs.” No one listens, they call such advice of his raving: “God created them for our benefit, for our use!” And even today, no one spares the poplar and beech from being killed.",0,0,0,0,0,0,1
+"III. When he begins reaping the field, he is mad, possessed: he cuts one swath here, another there, his chest bared; he tramples the whole field, mangles it, lays it waste, as long as there is strength in his arm, he whirls like a top, and when he is spent, he sprawls out upon the earth.",0,0,0,0,0,0,1
+"If you ask him: “Why do you act so?” he will answer you thus:
+– What are you saying, men? You do not understand, and that is why you judge my behavior.
 You do not know how the ears of grain begin to plead with me;
-You should know, you should see the stretching of the ears' necks,
-When ten thousand thunder together from every side—
-When I stand with sickle in hand, they see me as their God:
-– 'No, cut me, Mindia, do not leave me, I beg of you!'
-'No, me,' another cries out, 'the sky scares me more.
+You should know, you should see how they stretch their necks,
+When ten thousand of them thunder together from every side –
+When I am there with sickle in hand, they see me as their god:
+– “No, cut me, Mindia, do not leave me, I beg of you!”
+“No, me,” cries another, “the sky frightens me more.
 If I see even a small mist, my body will crumble.
-Woe if hail comes, it will slit my throat like a knife.'
-Another screams even louder: 'Do not forsake me, may you thrive in health!'
-They drive me mad with their clamor, I lose my mind with pity:
+Woe if the hail comes and cuts my throat with a knife.”
+Another shouts even louder: “Do not forsake me, may you rejoice in your health!”
+They drive me mad with their clamor, I lose my mind out of pity:
 I try, but I cannot reach them all with only two hands and eyes,
-And at such times, I myself need to be revived with water.
-Hail terrifies the field—and men being left without food,
-Otherwise, how can hail bring about an end as the sickle does?!
-The golden-colored ears sacrifice themselves for the benefit of men—
+And in those moments, I myself need to be revived with water.
+The field fears the hail – and men fear being left without sustenance,
+Otherwise, how could hail compare to the sickle's harvest?!.
+For the sake of men, the golden-colored ears of grain offer themselves,
 They do not wish to rot in vain, to be pecked by crows and kites.
-That is why they hurry to be reaped, they all clamor together,
-They wish to become bread, to become food, so that the hungry may be filled—
-That we may offer blessings for the dead and invoke the heavenly powers.""",0,0,1,0,0,0,1
-"IV. The Khevsurs held a shrine festival; there is beer-drinking and feasting. The feast of the Gudani Cross invites a great multitude of worshippers. The people are gathered, and the elders deliberate on many matters: some tell of others' stories, others of their own adventures; they speak of valor, of the rifle and the sword; whoever girds a chain-cutting blade at his waist, everyone praised him. They listen with reverence to whatever one says of his trials. At the same time, they began to discuss the Snake-Eater’s knowledge—of the woodcutter, the mower of grass, and the sin of their deeds.",0,0,0,0,0,0,1
-"Chalkhia says to the assembly: “I marvel at your thoughts; I have told you many times before, and I say the same now: If trees and stones had tongues, why have we not heard them too? Mindia has invented a lie to deceive us. Are we not men like him? I believe we also have ears! I do not say this in secret; it reaches his own ears as well; if I do not speak the truth, let him ponder it in his heart. Suppose pity is good for trees, stones, grass, and animals... yet the killing of a man outweighs all, even if he be an enemy to everyone. Then we should not kill men either; listen to what I say: I have seen Mindia pile up a mound of enemies hewn by the sword. Why does he do this? For our faith does not grant us leave to kill, yet we kill him who would destroy our peace, or take our land, or our wife, or hinder our understanding of the faith. Then even God will not count it a sin to turn our hand against the enemy; likewise, so that we may live, the same applies to the felling of beech and elm.”",0,0,0,0,0,0,1
-"– He does not lie, no, Chalkhia is right; Mindia is the one who lies indeed. He has built a wall of a thousand lies before our very eyes, – some among the people were saying, timidly and low.",1,0,0,0,0,0,1
-"– If we were to follow that thought—woe to your enemy—how then could we live? Why should we commit a sin for which the Lord will show us no mercy?! When the community is counseled so, it is done very wrongly. From the noble, we always hope for help and benefit, and not for our ruin, nor the harming of our way of life!.. – This was the final, settled conclusion of the Khevsur assembly…",0,1,0,0,0,0,0
-"Mindia sat right there, tears flowing from his eyes. No one knew why his heart was aching. His eyes were fixed in one direction, he heard nothing of the people; he was roused from his thoughts when Berdia said to him: – Why do you not heed us, Mindia, I wonder why you weep? I am not surprised by this from you, nor is it surprising from another – to change mourning and weeping for feasting nine times in a single moment. – And the whole band of Khevsurs turned their faces toward Mindia…",0,0,0,0,0,1,1
-"– Then speak, – Berdia asks again, – what sorrow weighs upon your heart?
-– I am listening to those birds, – he pointed toward the birds,
+That is why they hurry to be reaped, all clamoring together,
+They wish to become bread, to be food, so that the hungry may be filled, –
+Let us grant peace to the dead, and invoke the heavenly powers.",0,0,1,0,0,0,1
+"IV. The Khevsurs held a shrine-festival, there is beer-drinking and feasting.
+The feast of the Gudani Cross invites a great many worshippers.
+The people are gathered, the elders deliberate on many things:
+Some tell of others' stories, others of their own adventures;
+They speak of bravery, of the rifle and the sword,
+Whoever girds a chain-cutter at his waist, everyone praised him.
+They listen with reverence to what one says of his trials.
+At the same time, they began a discussion on the Snake-Eater's knowledge,
+On the wood-cutter, the grass-mower, and the sin of their deeds.",0,0,0,0,0,0,1
+"Chalkhia says to the assembly: ""I wonder at your thought,
+I told you many times before, and now I say the same:
+If trees and stones had tongues, why haven't we heard them too?
+Mindia has invented a lie to deceive us.
+Are we not men like him? We too have ears, I think?!
+I do not say this in secret; it reaches his own ears too;
+If I am not speaking the truth, let him think it in his heart.
+Let's say pity is good for trees, stones, grass, and animals...
+Killing a man outweighs it all, even if he be an enemy to everyone.
+Then we shouldn't kill men either; I tell you, listen to me:
+I have seen Mindia piling up the enemy, cut by the sword, into a heap.
+Why does he do this? For even the law does not grant us permission to kill,
+But we kill the one who disturbs our peace,
+Or takes our land, or our wife, or hinders our religious faith.
+Then even God will not count it a sin to turn our hand against the enemy,
+Likewise, just so we may live, the cutting of beech and elm.""",0,0,0,0,0,1,1
+"– He is not lying, no, Chalkhia; Mindia is the one who truly lies, he has built a thousand kinds of lies before our eyes like a stone wall, – some among the people were saying hesitantly, in low tones.",0,0,0,0,0,0,1
+"– If we follow that thought—may it befall your enemy—how then shall we live? Why should we count as sin what is not held as sin by the Lord?! When the community counsels us so, it does a great wrong. From the good, we always hope for help and benefit, and not for our destruction or the harming of our lives!.. – This was the final, settled conclusion of the Khevsur assembly…",0,1,0,0,0,0,0
+"Mindia sat right there, tears were flowing from his eyes.
+No one knew why his heart was aching.
+His eyes were fixed on one side, he did not hear the people;
+He was roused from his thoughts when Berdia said to him:
+– Why do you not heed us, Mindia, I wonder why you weep?
+I am not even surprised by this from you, nor is it surprising from another –
+To change mourning and weeping for revelry nine times in a single moment.
+– And the whole troop of Khevsurians turned their faces toward Mindia…",0,0,0,0,0,1,1
+"– ""Well then, speak,"" Berdia asks again, ""what grief plagues your heart?""
+– ""I am listening to those birds,"" he pointed toward the birds,
 Two with drooping wings sat on flat stones beneath the ash tree.
-– One tells the other the story of their children's death;
-The one on the left is the mother, on the right is the teller of the tale,
-May it only happen to your enemy, that a heartbroken parent weeps for their children.",0,0,0,1,0,0,1
+– ""One tells the other the news of their children's death;
+The one sitting on the left is the mother, on the right – the teller of the tale,
+May it befall your enemy, how a heartbroken parent weeps for their children.""",0,0,0,0,0,0,1
 "The entire assembly of Khevsurs now gazes at the birds,
-At that moment, one of the birds, as if overcome by sleep,
-Fell from the stone ledge and gave up its soul.
-Which of the two would die—to know this was the law!
-The Khevsurs looked at one another with astonished eyes;
-Could such knowledge be within the power of man?
-They were convinced of his knowledge, for the proof lay before them all,
-But what the heart felt, the mind could not explain:
+One of the birds at that moment, as if overcome by sleep,
+Fell down from the flat stone and gave up its soul.
+To know which of the two died—that is the law!
+The Khevsurs looked at one another with eyes of wonder;
+Could such knowledge truly be within a man's power?
+They were convinced of his wisdom, the proof lay before them all,
+But what the heart felt, the mind could not remedy:
 They mow the grass, they kill the beast, they light the hearth with wood.
-What would make a fox hate the meat of a hen, you tell me?!
-Who would sit upon the embers, if they did not see the log?!",0,0,0,0,0,1,1
-"V. Many times the Lezgins, Persians, Kists, and Turks desired to wage war, but the men always return to Khevsureti victorious. The bastion of Kartli was fortified; they stitched a shroud for the enemy. If a nation overcomes its foe, it needs nothing more. As long as Mindia leads, the Khevsurs are safe and well; no one dares to provoke them anymore, and tranquility reigns everywhere... Blessed is the one to whom the country is grateful.",1,0,0,0,0,0,0
-"VI. Atop a sheer cliff a house stands, its roof propping up the sky; all around are massive mountains, risen in their full stature, sheathed in snow, tireless in their might. If once you behold them so, you will forever long to gaze upon them. They are even more beautiful when they ripple with green. Though the sun may rest upon their breast and avalanches descend with a roar—the ravines coughing like those sick with consumption—still, their splendor is blessed by the heavens. Many a time a cool breeze circles above them with a moan. In summer, black clouds light candles with a strike of flint. There, no one plows the earth, nor does anyone sow seeds; only the ibexes roam the crags, sharpening their horns. And the jagged rocks, grim-faced, their roots reaching into the abyss, think not of the soul, nor do they grow fat on carrion; greetingless and loveless, peering out through the mountain gaps.",1,0,0,0,0,0,1
-"A tower is joined to the house, blackened by soot,
-Forever shaken by the firing of muskets.
-What shall bring the poor soul rest, while enemies surround it,
-While the thirst for vengeance dwells in the hearts of men,
-Many a bullet fired by the foe has struck upon its breast!",0,0,0,0,0,0,1
-"From the house comes the sound of resentment, the voice of dispute and wrath; there are not many there—the tone of two in conversation. Upon the embers a fire burns, kindled with wood; on that side a woman is seen beside the children, on this side a lone Khevsur laments many things with a sigh.",0,0,0,0,0,0,1
-"(Husband) Let that day turn black, the day I took you as my wife. Until then, I saw no man on earth as my equal. Because of you, cursed one, I have become utterly inept and foul. What am I? Am I even a man, worthy to walk beneath the heavens?! If only I knew the remedy to be as I once was!.. My life is in vain; today a boulder of a black cliff is better than I. From you, I suffer an incurable plague; I have sinned before the Lord because of you. Even the children have become an affliction to me, they have changed my mind; now I weep day and night over my lost soul and flesh.",0,0,1,1,0,0,0
+What could make a fox loathe the flesh of a hen, you tell me?!
+Who would sit upon the embers, if they did not see a log there?!",0,0,0,0,0,0,1
+"V. Many times did the Leks, Persians, Kists, and Turks desire to wage war,
+Yet the brave men always return to Khevsureti victorious.
+The bulwark of Kartli was fortified; for the enemy, a shroud was sewn.
+If a nation overcomes its foe, it needs nothing more than this.
+As long as Mindia leads them, the Khevsurs shall come to no harm,
+No one dares to provoke them anymore; tranquility is everywhere…
+Blessed is he who has a country that is grateful to him.",1,0,0,0,0,0,0
+"VI. Atop a sheer cliff a house stands, propping the sky with its roof,
+Around are massive mountains, risen in their full stature,
+Overlaid with snow, tireless in their vigor.
+If you saw them once this way, you would forever wish to behold them.
+They are even more beautiful when they surge with green.
+Though the sun may rest on their breast, and avalanches descend with a roar, –
+The ravines will cough like those sick with consumption,
+Yet their beauty is blessed by the heavens.
+Many times a cool breeze circles above them with a moan.
+In summer, black clouds light candles with flint.
+There, no one plows the earth, nor does anyone sow seeds,
+Only the ibexes roam the cliffs, sharpening their horns.
+And the sheer rocks, grim-faced, rooted deep into the abyss,
+Neither think of the soul, nor grow fat on carrion,
+Greetingless and loveless, peering through the mountain haze.",1,0,0,0,0,0,1
+"A tower is joined to the house, blackened by smoke,
+Forever shaken by the firing of jazeirs.
+What shall bring rest to the wretched thing, as long as enemies surround it,
+As long as the quest for vengeance dwells in the hearts of mankind,
+Many a bullet fired by the foe has struck upon its breast!",0,0,0,0,0,0,0
+"From the house is heard bitterness, the sound of arguing, of wrath;
+There are not many people—the tone of conversation of two.
+Upon the embers a fire is lit, kindled with wood;
+On that side a woman is seen beside the children,
+On this side a lone Khevsur laments much with a sigh.",0,0,0,0,0,0,1
+"(Husband) May that day turn black, the day I took you as my wife. Until then, I saw no man on earth as my equal. Because of you, cursed one, I have become entirely clumsy and wretched. What am I? Am I even a man, worthy of walking under the sky?! If only I knew a remedy to be what I once was!.. My life is futile; today a boulder of a black cliff is better than me. From you, I suffer an incurable plague; I have sinned before the Lord because of you. Even my children have become an affliction to me, they have made me change my thoughts. Now I weep day and night over my lost soul and flesh.",0,0,0,1,0,0,0
 "(Wife) Why do you blame me for your own fault, when I came to your home by force?
 You would not let me pass on my way, you overwhelmed me with your pleas:
-“Mzia, I love you dearly,” you said, shedding tears from your eyes,
-And for my sake, you faced my brothers in their home with a sword.
-Why does the sugar, once so sweet, now taste bitter to you?
-Or why do you mourn having children, why do you voice grievances against God?
-Who has ever cast aside his own wife and child to another?
+""Mzia, I love you so much,"" you shed tears from your eyes,
+And for the sake of my heart, you drew your sword against my brothers at home.
+Why has the sugar, once so sweet, now turned bitter to you?
+Or why do you mourn having children, why do you speak grievances against God?!
+To whom would one cast away their own wife and child?
 Why do you make us the reason for the change in your heart?",0,1,0,0,0,0,0
-"(Husband) Because, you witless woman, you whined and complained: “The cold is wasting away the children,” you shrieked like a mother who had lost her child: “If only you saw how much wood Berdia has, what a fire he lights,” holding up fools as examples of life for me. You spoke words meant to provoke me in my hearing; you craved a good life, but you were baking poisoned bread. And so, day by day, little by little, slowly, I began to treat my own faith with fox-like cunning: today I felled one plane tree, though it pleaded with me much: “Why do you do this, Mindia, as if you were not once our friend?!” Tomorrow I felled two, and thus I turned my heart to stone, so that I would feel nothing at all; I even asked God for the strength. You craved the meat of the ibex whenever you heard of another’s kill; how many times has my heart been pierced by this grievance: “What manliness will boys raised without meat show? I have never heard of anyone else’s children being raised so.” Ah, why did the earth not cover you before you said this!.. I gave in—I slaughtered the beasts, I made you fat and merry with carcasses; you rejoiced with your children, while I was left with a breaking heart. It would have been better to be struck down by lightning than to become like this; what is lost, I can no longer reclaim by any means.",0,0,1,0,0,0,1
-"(Wife) What is so wrong with you, why do you trouble yourself so? Why do others not count cutting wood or killing beasts as a sin?",0,1,0,0,0,0,0
-"(Husband) You do not know, no, you shallow-minded, chatterer, superficial feeler, who knows the world only for your own pleasure! Is it not worth it—to mourn my own knowledge and power, when not a single one of them, you fool, is with me anymore?! Is it not worth it for a dead man to know his own death—he is dead; should he mourn himself, is his existence not horrific? Find me another existence, more bitter than this, to compare! Such a dead man am I today; what do other dead ones suffer in their death! They are at rest, they feel nothing through their senses. How can I serve the land anymore, I am emptied of knowledge: the flowers tell me nothing, I no longer have understanding of them; could a man face a greater peril? I no longer hear the birds, I no longer hear the field, I haven't heard since then the sweet greeting of the green. This is nothing, in other ways too I am good for nothing; whether I lie here in the mountains or go down to the plains, no one would buy a wretch like me for a piece of straw. I can no longer serve the land in the army that repels the enemy, because I no longer have my former wisdom in my head. Why did my star not vanish from the sky long ago! Until today, enemies from within dared not cross the threshold for fear, but if they learn of this, they will come, turn us to dust and earth, turn our houses, fortresses, and towers into ruins. I will not live to see this, your days are also over; because of you I lost my mind, I betrayed my holy faith... Now should I ruin the country too, while you still draw breath!.. Or why do I need life, or why should I let you live, if my entire being is no longer sound?! Or with what face can I live here? How shall I justify myself before God? I am shamed before everyone—the living and the dead. Why do I need armor, why do I need a sword, if my strike against the enemy will no longer have power?! What springs from this earth is my debt and my duty; how can I eat bread, how can I drink water?!",0,0,1,0,0,0,0
-"He stood and, with arms folded, appeared at the door.
-When he looked upon the high mountains, he sobbed bitterly.
-The mountains have thawed, torrents come rushing headlong with a roar,
-In the ravines, the avalanches thinned, resembling dragons.
-Clear droplets of rain rustled upon the butterbur leaves,
+"(Husband) Because, you witless woman, you whined and complained:
+“The cold is wasting the children away,” you shrieked like one who lost a child:
+“If only you saw how much wood Berdia has, what a fire he lights,”
+You held up fools as examples of life for me.
+You spoke words to provoke my heart for me to hear,
+You craved a fine life, yet you were baking poisoned bread.
+And I, from one day to the next, little by little, slowly,
+Began to treat my own faith with cunning:
+Today I cut down one plane tree, though it pleaded with me much:
+“Why do you do this, Mindia, as if you were not once our friend?!”
+Tomorrow I cut two, and thus I turned my heart to stone,
+So that I would feel nothing at all, and I even asked God for strength.
+You yearned for the meat of the ibex, whenever you heard of another’s kill,
+How many times has this complaint pierced through my breast:
+“What bravery will boys raised without meat ever show?
+I have never heard of anyone else being raised in such a way.”
+Ah, why did the earth not cover you before you spoke those words!..
+And I followed—I slaughtered the beasts, I made you fat and merry with carcasses,
+You rejoiced with your children, while I was left with a breaking heart.
+It would have been better than becoming like this to be struck down by lightning;
+What is lost I can no longer regain by any means.",0,0,1,0,0,0,1
+"(Wife) Or what ails you so, why do you trouble yourself so much; why do others not consider the cutting of wood or the slaying of beasts as a crime?",0,1,0,0,0,0,0
+"(Husband) You do not know, no, you shallow-witted, chatterbox, superficial feeler, who knows this fleeting world only for your own pleasure! Is it not worth it – that I mourn my own knowledge and strength, since not a single one of them, fool, remains with me?! Is it not worth it for the dead to know their own death – they are dead; should they mourn themselves, is their existence ghastly? Find me another existence, more bitter than this, to compare! Such a dead man am I today; what do other dead ones suffer from being dead! They are at rest, they feel nothing through their senses. How can I serve the country anymore, I have been emptied of knowledge: the flowers tell me nothing, nor do I recognize them; is it any more than a man exposing himself to danger? I no longer hear the birds, I no longer hear the field, since then I have not heard the sweet greeting of the green. This is nothing, in other ways too I am good for nothing; whether I lie here in the mountains, or go down to the lowlands, no one would buy wicked ones of my kind for a straw. I can no longer serve the country in the army that repels the foe, because I no longer have my former understanding in my head. Why did my star in the sky not vanish sooner! Until today, enemies from within dared not enter the gates out of fear, and if they hear of this, they will come, they will turn us into dust and earth, our houses, fortresses, and towers they will turn into ruins. Alive I shall not see this, your day too is finished, because of you I lost my mind, I sold my holy faith… Now should I ruin the country too, while the breath of life is still in you!.. Or why do I want life, or why should I let you live, if my whole being is no longer sound?! Or with what face should I live here? How shall I justify myself before God? I am shamed before everyone – before the living and the dead. Why do I need armor, why do I need a sword, if my strike against the enemy will no longer have strength?! The harvest of this land is my debt and obligation, how then shall I eat bread, how shall I drink water?!",0,0,1,0,0,0,0
+"He rose and, with arms folded, stood by the door.
+When he looked at the high mountains, he sobbed bitterly.
+The mountains thawed; torrents come rushing down headlong with a roar,
+In the ravines, avalanches thinned, like dragon-like creatures.
+Clear raindrops rustled upon the burdock leaves,
 Flowers shine in the fields – the eyes of Queen Tamar.
-To the sun-faced one at the cliff’s edge, I offer my heart in devotion!..
+To the sun-faced one appearing on the cliff's edge, I devote my heart and soul!..
 Travelers from the far side crossed the mountain unharmed.
 Sheep and cattle adorn the mountain slopes, like beauty marks on a lovely woman;
-The mountains and valleys, tormented by winter, have come back to life.
-In this world, there are many wretched ones, many to be pitied,
-When we look at one thing, our eyes fail to see so many others!",1,0,0,0,0,0,1
-"In the villages there is a clamor, the shouting and calling is great: “Let it be known, where is Mindia the snake-eater; the Kist army is coming, they have broken the bridge over the Argun, to meet the enemy, oh men, now rests upon us!” Great preparations began, the people surged like the sea, whichever way you look, rifles and swords flashed. It has been a long time since the Khevsurs mowed down enemy ranks, since they mercilessly trampled their ruined camps; hungry for war, they can hardly wait for the morning, each has this in his heart – who will be the first to kill the leader, cut off his head and right hand, and return home with a name, to be presented with a cup for valor at the candle-lit shrine festival. His lineage shall remain forever praiseworthy. Women with children enter the fortress-towers; they have prepared bags of provisions for their husbands and sons.",0,0,0,0,0,0,1
-"VIII. Twilight falls. The dark ravines turn grimly black. To the eye, they appear as if they have fallen ill. The high mountains, the cliffs, the proud Aragvi itself – all are saddened; I see them weeping silently. Only the bold messengers shout from village to village: “Whoever is missing from the host tomorrow, may they be uprooted from their very foundations!”",0,0,0,1,0,0,0
-"No fire is seen outside anymore, nor is the shepherd’s whistle heard; they left not even the value of a needle at the door. Everyone has settled in the village, sheltered by tower-fortresses; sheep and cattle, and treasures, they hide in secret places.",0,0,0,0,0,0,1
+Mountain and valley, tormented by winter, have come to life.
+There are many wretched in the world, many to be pitied,
+When we look at one, our eyes cannot see many others!",0,0,0,0,0,0,1
+"In the villages there is an uproar, the shouting is great: ""Let it be known, where is Mindia the snake-eater; the army of the Kists is coming, they have broken the bridge over the Argun, confronting the enemy, men, now depends on us!"" Great preparations began, the people surged like the sea, whichever way you looked, rifle and sword flashed. It had been a long time since the Khevsurs mowed down the enemy’s ranks, no longer mercilessly trampling their ruined camp; hungry for war, they can hardly wait for the morning, each has this in his heart—who will kill the leader first, cut off his head and right hand, and return home renowned, to be presented with the cup of valor at the candle-lit shrine festival. His lineage, too, shall remain forever praised. Women with children enter the fortress-towers; they have prepared bags of provisions for their husbands and sons.",0,0,0,0,0,0,1
+"VIII. Twilight falls. Dark ravines turn black and gloomy. To the eye they appear as if they have fallen ill. High mountains, cliffs, the proud Aragvi itself – all are sad, I see, they are weeping silently. Only the messengers boldly shout from village to village: “Whoever is missing from the host tomorrow, may they be uprooted by the roots!”",0,0,0,1,0,0,0
+"No fire is seen outside anymore, nor is the shepherd's whistle heard; they left not even the value of a needle at the door. Everyone in the village has settled, sheltered by tower-fortresses; sheep, cattle, and treasures, they hide in secret places.",0,0,0,0,0,0,1
 "A faint, pale light appeared within the Khakhmati shrine,
-Candles flickered on the stone wall, their flames reaching the ash trees;
-At times it would flare like the dawn, then dim and fade away,
-Like a sick man in his final struggle, dying in agony and grief.",0,0,0,1,0,0,1
-"No other son of man was seen there; two stood upon the field. One held a bloody dagger, blood was on his hand; before them a slaughtered bullock lay on its side.",0,0,0,0,0,0,1
-"Berdia (the Khevisberi): May blessing be granted to you, Mindia, for that heart and that custom, for the thoughts with which you offer sacrifice and place your hope in God; may your name never fade as long as a sword is girded at your waist. O hope of Khevsureti, may the Cross be your protector; may you always lead your host to and fro in victory! I believe this is the tenth you have slaughtered this year; you have decimated the kine. Why do you plead so much? What sins have you committed? One or two is the custom, but your pleading is excessive. May I not offend God with what I have just blathered.",0,1,0,0,0,0,0
-"(Mindia) I still have a pair of oxen, and three or four cows; I will sacrifice them as well, if only my wounds would heal.",0,0,0,0,0,0,1
-"(Berdia) What wound, man? We have never heard of you having a wound; you heal thousands of others who are wounded, I believe.",0,1,0,0,0,0,1
-"(Mindia) It is a different matter, Berdia, I cannot say it easily: men do not speak of their own failures, yet we are quick to talk of others'. Do those who possess wealth, tell me, open their purses everywhere? Tomorrow, or the day after, you shall know, when the messenger arrives from the mountains.",0,0,0,0,0,0,1
-"(Berdia) “You are our hope, the fortune of the Khevsurs is with you. We believe, and you know it too, that you speak with God; the Icon follows you in victory, it is well known everywhere. May your fortune never fail by the power of Saint George, may the Lord not forsake us, and may He shelter you with His mantle.”
-Berdia took the cup in his hand and began again: “Glory to Saint George and mercy to you!.. May all the icons created by the Lord be your helpers, may not a single one of your foes be left alive. Tomorrow or the day after, we shall surely have war with the enemy; as long as you are alive among us, what can they achieve against us?!”
-As he spoke, the supplicant’s eyes filled with hot tears; so as not to be noticed, he turned away and wiped them with his hand.
-He collapsed before the altar like something cut by a scythe—a bundle of wood or twigs to be bound with a withe.
-He prays with tearful eyes, the words of the prayer are not heard.
-Never before had Berdia seen such a fervent supplicant—this surprises him: it is more the torment of mourning than a calm plea for mercy.
-Tears flow, silent sobbing mingles with the clinking of armor; he prays, kneeling, as much time passes.
-“Listen, Cross of Khakhmati!” he himself adds: “Do not let his plea be in vain, guide him toward the good.”",1,0,0,0,0,0,1
-"IX. At midnight the deluge began, the torrents burst forth; they broke through whatever doors were in the rocky ravines and delivered the mountains' message straight to the plains. Often the dewdrops of the clouds' tears lay thick upon the grass; the candles on the stones of Khakhmati have vanished and flicker no more. Nowhere is the *khevisberi* seen, nor the weeping worshiper; only the stone wall of the shrine gazes out wrathfully, and the Aragvi, weary and screaming, breaks through the cliffs.",0,0,0,0,0,0,1
-"X. In the morning, wings folded, tear-stained from the night,
-The mists slept upon the mountains with heads bound in white;
+Candles burned upon the stone wall, their flames reaching the ash trees,
+Now it would flare like the dawn, now it would dim and fade,
+Like a soul-struggling invalid, dying in agony and woe.",0,0,0,0,0,0,1
+"No other son of man is seen there, two stand upon the field, one holds a bloody dagger, blood is upon his hand; before them a slaughtered bullock lies upon its side.",0,0,0,0,0,0,1
+"Berdia (Khevishberi): May mercy be granted to you, Mindia, for that heart and that custom, with whatever thought you offer sacrifice and place your hope in God; may your name never fade as long as a sword is girded at your waist. O hope of Khevsureti, may the Cross be your protector, may you always lead the host to victory and bring them back triumphant! I believe you have slaughtered the tenth this year, you have finished off the cattle; why do you plead so much, what sins have you committed? One custom is enough, or two, but your pleading is excessive. May I not offend God by what I have just blathered.",0,1,0,0,0,0,0
+"(Mindia) I still have a pair of oxen, three or four cows, I will offer them too, if only my wounds would heal.",0,0,0,0,0,0,1
+"(Berdia) What wound, man? We have heard of no wound of yours; you heal thousands of others with wounds, I believe.",1,1,0,0,0,0,1
+"(Mindia) It is a different matter, Berdia, I cannot easily speak of it: we men cannot speak of our own failure, yet we are quick to speak of others'. Do those who possess money, do you know, open their purses everywhere? Tomorrow, or the day after tomorrow, you will find out, when the messenger from the mountain arrives.",0,0,0,0,0,0,1
+"(Berdia) ""You are our hope, the fortune of the Khevsurs is with you. We believe, as you well know, that you speak with God; the Icon follows you in victory, it is well known everywhere. May your fortune never fail by the power of Saint George, may the Lord not forsake us, may He protect you with His mantle.""
+Berdia took the cup in his hand and began again: ""Glory to George and mercy to you!.. May all the icons the Lord has created be your helpers, may not a single one of your enemies be left alive. Tomorrow or the day after, we shall surely have war with the enemy; as long as you are alive among us, what can they do against us?!""
+As he said this, the supplicant's eyes filled with hot tears; so as not to be noticed, he turned away and wiped them with his hand.
+He prostrated himself before the shrine like a piece of wood cut by a scythe, like brushwood or a rod to be bound.
+He prays with tearful eyes, the meaning of the prayer is not heard.
+Never before had Berdia seen such a fervent supplicant—this surprises him: it is more the torment of mourning than the calm entreaty for mercy.
+Tears flow, silent sobbing mingles with the clinking of armor; he prays, kneeling, and much time passes.
+""Listen, Cross of Khakhmati!"" he himself adds: ""Do not let his plea be in vain, guide him toward the good.""",1,1,0,0,0,0,1
+"IX. At midnight the downpour began, the torrents burst forth,
+They broke through, wherever doors were in the boulder-strewn ravines,
+And they truly brought the mountains' message down to the lowlands.
+Often the dewdrops of the clouds' tears lay upon the grasses,
+The candles on the stones of Khakhmati have vanished and flicker no more.
+Nowhere is the Khevisberi seen, nor the weeping worshiper,
+Only the stone wall of the shrine glares out fiercely,
+And the Aragvi, weary and roaring, tears at the cliffs.",0,0,0,0,0,0,1
+"X. In the morning, with folded wings, those who wept through the night,
+Mists slept upon the mountains with heads bound in white cloth;
 Sometimes they gladden us with life-giving dew,
-At other times they make us curse fate with the malice of their floods.
+Other times they make us curse fate with the evil of their torrents.
 Below, the groves and ravines, yesterday filled with avalanches,
 Today rejoice in life, radiant in green,
 And the pensive tower gazes down upon the valley from on high.",0,0,0,0,0,0,1
-"In the tower, women appear like mountain flowers; whether or not the Khevsurians defeat the enemy—that is the subject of their talk. Through the embrasures, they restlessly watch the valley below, entreating the power of God and the Icon for their army. From here, the surroundings are clearly visible: the mountains and every mountain pass; not an insect, nor any animal, can hide from the human eye. Some sit on wooden planks, deliberating while knitting socks; they, too, offer a sacred prayer for their motherland.",0,0,0,0,0,0,1
-"Sandua (a woman): Mzia, you are more heavy-hearted than all the others. If you grieve for your husband, you bright-eyed one, and cannot bear the thought of him being killed, you must not know that he considers war to be his destiny. The mother who will raise the killer of Mindia has not yet been born. What then should I do? Many of my own have gone to the host: my husband and all three of my brothers have never been absent from the ranks. No one can surpass your husband; he will do as he has always done. Just as many times before, he will bring ruin to the enemy. He who has slain before will slay the antlered stag.",0,0,0,0,0,0,1
-"(Mzia) Woe is me, he saw such dreams that he could no longer contain himself: for a whole year he seemed like a sick man, biting his own flesh with his teeth. ""I will slaughter my wife and children,"" he would cry out, though for some reason he did not dare. He turned to the icons and God, sacrificing whatever livestock we had; he would come home and not even eat bread, no matter how much I entreated him. Many times I saw him alone, weeping silently like a child: ""I have lost a precious treasure,"" he would say to himself. He would sit on the flat roof all night, staring at the sky; to those coming or going, he would no longer speak a word; he wanted no guests, and as for us—not at all; in this short time, has grief not turned his hair and beard gray?! Many times I watched him stealthily in the dark, but I did not have the heart to intrude upon his solitude. That he wept for himself and for the people, that I understood completely: ""I am of no use to the world anymore,"" he wept in secret. But toward his wife and children, especially toward the end, he treated us with hostility.",0,0,0,1,0,0,1
-"(Sandua) We have heard no such thing; I hear it from you for the first time. To me, Mindia is still the same, a man to be compared with the sun. Though you speak it a thousand times, the world will not believe you. I marvel why he did not say to others what he said to you. What knowledge was he mourning? What knowledge did he lament? And of what were you guilty?.. Did his heart ache so, that his hand reached for his sword to put an end to his wife and children?!.",0,1,0,0,0,1,0
-"(Mzia) He was saying this, by their life, let me not speak falsely – he placed his hand on the children, both standing by his side – that because of you I fell into sin, I did what should not be done: I chopped wood, I slaughtered beasts, as if they were simple things. The flowers no longer answer me, nor do the stars at night. The great knowledge and power bestowed by the Lord I have lost by following you; why do I still wear a sword at my waist? And a thousand other such things he spat at me with fury, and two or three times I escaped, he nearly killed me with a rifle. Perhaps he still had hope, he pleaded with the icons, he toiled... and he also took pity on us, and that is why he did not kill us.",0,0,0,0,0,0,1
-"(Sandua) If what you have said is true, if he has fallen into sin because of you, that tongue of yours should be cut out, you should be hung high upon a hook, a fire lit beneath you to burn in its flames: you have brought sin upon the land, and it is by its power that we exist!",0,0,0,0,0,0,1
-"(Mzia) Yes, if I am at fault in any way, I shall deserve punishment; but why should it be a sin that I gave thought to our livelihood? If a man desires a wife and children, he must also have the means to provide for them. We know our own work; what do we women understand of armor… He should have thought of this himself—that is what makes a man a man. If one has not harmed another nor stolen anything, why should blame be cast upon the innocent, who has committed no sin? For one to pay for the sin of another—where or when has that ever been called a virtue? He sensed something bad nonetheless, and that is why the poor soul was troubled; seeing the outcome beforehand, he took his anger out on us in the end. Last night I too had a bad dream; I wonder, oh I wonder, what is to come?!",0,1,0,0,0,0,1
-"(Sandua) What did you see, Mzia? Tell me; perhaps it will turn out for the best, and the Lord will not lead us to ruin and destruction.",0,1,0,0,0,0,1
-"(Mzia) I saw something evil, Sandua, hideous, heart-piercing,
-Soul-and-body-shaking, mind-revolting:
-Torrents had rushed forth, like panting demons,
-Wrecking mountain and plain, there was a thundering, a roar,
-It felt like the collapse of heaven and earth, such a rumble was heard.
-The peaks were breaking off the mountains, settling in the ravines below;
-Together with the mountains, the rocks were cracking like rifles.
+"In the tower, women appear like mountain flowers; whether the Khevsurs defeat the enemy or not – that is their conversation. Through the loopholes, they restlessly gaze down at the grove and entreat for their army the power of God and the icon. From here, the surroundings are clearly seen: the mountain, every mountain pass; neither an insect nor any animal can hide from the human eye. Some sit on a plank, deliberating, while knitting socks; they too offer a holy prayer for the motherland.",0,0,0,0,0,0,1
+"Sandua (Woman)
+Mzia, you are more heavy-hearted than all the others;
+If you grieve for your husband, you partridge-eyed one, and cannot bear the thought of him being slain,
+You did not know that he considers war as his destiny
+And the one who could kill Mindia has not yet been raised by a mother.
+Then what should I do? Many of my own have gone to the host:
+My husband and all three of my brothers have not been missing from the ranks.
+No one can surpass your husband; he will do as he has done of old,
+As many times before, he will now also bring harm to the enemy:
+He who has slain before will slay the antlered stag.",0,0,0,0,0,0,1
+"(Mzia) Woe is me, that he can no longer be a man, such dreams he saw:
+For a whole year he seemed like one infirm, biting his own flesh with his teeth.
+""I will slaughter my wife and children,"" he would cry, though for some reason he did not dare.
+He turned to the icons and God, sacrificed whatever livestock we possessed,
+He would come and not even eat bread, no matter how much I entreated him.
+Many times I saw him alone, weeping silently like a child:
+""I have lost a precious treasure,"" he would say to himself.
+He would sit on the roof all night, staring at the sky,
+To those coming or going, he would no longer speak a word;
+He no longer desired guests, and as for us—not at all,
+In this short time, has grief not turned his hair and beard gray?!.
+Many times, stealthily in the dark, I watched him in silence,
+But I could not find the heart to intrude upon his solitude.
+That he wept for himself and for the people, that I understood fully:
+""I am of no use to the world anymore,"" he wept in secret.
+But toward his wife and children, especially of late, he treated us with hostility.",0,0,0,1,0,0,1
+"(Sandua) We have not heard of this, I hear it from you for the first time:
+I still think of Mindia as one to be compared to the sun.
+Even if you say it a thousand times, the world will not believe you.
+I wonder, why was that said to you and not spoken to others?
+What knowledge was he supposedly mourning, about which knowledge did he complain?
+Or of what are you guilty?..
+Did his heart ache in such a way that his hand reached for his sword to finish off his wife and children?!.",0,1,0,0,0,1,0
+"(Mzia) He said that, by their sun, let me not speak falsely,
+– he placed his hand on the children, both standing by his side, –
+that because of you I entered into sin, I did a deed that should not be done:
+I cut wood, I killed beasts, as if they were simple things.
+The flowers no longer answer me, nor do the stars at night.
+The great knowledge and power bestowed by the Lord
+I have lost by following you; why do you still gird a sword on my waist?
+And a thousand other such things he cast at me with rage,
+and two or three times I escaped, he almost killed me with a rifle.
+Perhaps he still had hope, he prayed to the icons, he toiled…
+And he also pitied us, and that is why he did not kill us.",0,0,0,0,0,0,1
+"(Sandua) If what you have said is true, and through you he has fallen into sin, that tongue of yours should be cut out, you should be hung high upon a hook, a fire should be kindled beneath you, and you should be consumed by its flames: you have brought sin upon the land, for it is by its power that we exist!",1,0,0,0,0,0,1
+"(Mzia) Yes, if I am at all to blame, I shall be worthy of punishment;
+Why should it be a sin, that I gave thought to toil?
+If a man desires a wife and children, he must have the grace to provide.
+We know our own tasks; what do we women know of armor...
+He should have thought of this himself, for that is why a man is a man:
+If one has not harmed another and has not stolen,
+Why should blame be laid upon the innocent, who has committed no sin?
+That one should pay for the sin of another—where or when has that been called a virtue?
+He felt something ill nonetheless, which is why the poor soul grieved,
+Venting his anger upon us at last, seeing the outcome beforehand.
+Last night I also had a bad dream; oh, I wonder what will come of it?!",0,1,0,0,0,0,1
+"(Sandua) What did you see, Mzia, tell me; perhaps it will come true for the best, and the Lord will not let us perish and be lost?",0,1,0,0,0,0,0
+"(Mzia) I saw something evil, Sandua, horrific, heart-piercing,
+Disturbing soul and flesh, appalling to the mind:
+Torrents had come rushing, like panting giants,
+Destroying mountain and plain, there was a thundering, a roaring,
+It seemed like the collapse of heaven and earth, such a rumble was heard.
+The peaks were breaking off the mountains, lying down in the ravines below;
+Along with the mountains, the rocks were bursting like rifles.
 The sky appeared like pitch, churning blackly, hissing,
 It rained pitch upon the earth, hot drops were falling,
-The torrents still flowed hideously, relentlessly.
-""Help us, we are perishing!"" people were screaming from a thousand places.",0,0,0,0,0,0,1
-"Indeed, I see the water bringing people, shields, and swords; in a thousand places, fortresses are crumbling, and houses lie by the stone walls; to such misery, only a mourner is missing. We thought we were not in trouble, as if we were unharmed, but in the end, I saw that we too were swept away with our home. A torrent rushed down from above, tore the foundation from the fortress, and mingled it with the shingle of the Aragvi below. It took the house, roof and all, and carried us away too; I wanted to cry out—""Help me!""—but I could no longer move my tongue. I pressed the children to my heart and begged the Icon-God for salvation. I tried to climb out, struggling toward the shore; I covered the children's faces with the veil of my black headscarf. And every time I reached the bank, it was harsh; I was met by the faces of men, black as pitch. They pushed me back, threw me into the water, and shouted: ""Where are you coming? Go, follow the water, for it is the command of God!""",0,0,0,1,0,0,1
-"And at that moment I saw, the water before us was carrying our man away; he turned to me and spoke, his voice was sweet and gentle – “I beg you to forgive me, Mzia, for how I cursed you and made you angry; whatever you see befalling me, I am worthy of it, it is exactly what I deserve; do not let the children be mistreated, I beg you, look after them well for me!” May my enemy never know the torment I suffered last night, from the dream that I saw!..",0,0,0,0,0,0,0
-(Sandua) So you couldn't come out? Shall we carry you?,0,1,0,0,0,0,1
-"(Mzia) No... it has taken us, Sandua, mothers and children, all of us.",0,0,0,0,0,0,1
-(Sandua) May no evil befall you; may God keep you all safe and sound.,1,0,0,0,0,0,0
-"(Chorus of women) They are coming, the army is coming, O God, bless them!.. Mzia, arise, look out, there is your husband, he follows the banner-bearers side by side, like the rising moon.",0,0,0,0,0,0,1
-"(A woman) Here are our boys, may their mother be their sacrifice... Oh, how handsome they are, who could bear to see them among the dead!.. May God never let me witness such a thing in all my days.",1,0,0,0,0,0,0
-"(Second woman) Look there, my youngest is following right beside them. How beautifully they go; may their mother be a sacrifice for them!",1,0,0,0,0,0,0
-"(An unmarried woman) I would give my life for Totia, I can hardly distinguish her in the crowd. I saw her… I barely recognized her by her gait, by her form. The stallion gnaws at the bit, its muscles tensed.",0,0,0,0,0,0,1
-"(Second Woman) Our Ushisha is also a nimble one, how he makes his blue horse gallop!.. When the matter comes to the sword, he won't start cowering either. I wish I could see him then, when he begins to grip his shield.",1,0,0,0,0,0,1
+The torrents still flowed horribly, relentlessly.
+“Help us, we are perishing,” the people screamed from a thousand sides.",0,0,0,0,1,0,1
+"Indeed I see that the water brings people, shields, and swords;
+In a thousand places fortresses crumble, houses stand by stone walls;
+To such wretchedness, only a mourner is missing.
+As if we were not in trouble, as if we were unharmed,
+In the end I saw that we too were cast out with our home and hearth.
+A torrent rushed from above, tore the foundation from the fortress
+And mixed it too down with the shingle of the Aragvi.
+It took the house with its roof, and swept us along too;
+I want to cry out – help me! – but I could no longer move my tongue.
+I pressed the children to my heart, begging the Icon-God for help.
+Meanwhile I tried to get out, struggling toward the edge;
+I cover the children's faces with the veil of a black kerchief.
+And as many times as I reached the shore, so many times it was harsh;
+The faces of men met me there, black as pitch.
+They pushed me, threw me back into the water, and shouted this:
+""Where are you coming? Go, follow the water, it is the command of God!""",0,0,0,1,0,0,1
+"And then I saw, the water before us was carrying away our man,
+He turned to me and spoke, his voice was sweet and gentle, –
+“I beg you to forgive me, Mzia, for how I cursed and angered you;
+Whatever you see happening to me, I am worthy of it, it serves me right,
+Do not let the children be mistreated, I beg you, look after them well for me!”
+May my enemy suffer what I suffered last night, the dream that I saw!..",1,0,0,0,0,0,1
+"(Sandua) So you couldn't come out, shall we take you?",0,1,0,0,0,0,1
+"(Mzia) Vera… it has taken us, Sandua, mothers and children, all of us.",0,0,0,0,0,0,1
+"(Sandua) May no evil befall you, may God keep you whole.",1,0,0,0,0,0,1
+"(Chorus of women)
+They are coming, the army is coming,
+God, bless them!..
+Mzia, stand up, look out,
+There is your husband,
+He follows the standard-bearers side by side,
+He is the rising moon.",1,0,0,0,0,0,1
+"(A woman) Here are our young men, may their mother be their sacrifice... Oh, how handsome they are, who could bear to see them among the dead!.. May God never let me witness such a thing in my lifetime.",1,0,0,0,0,0,0
+"(Second woman) Look, my youngest is following right beside them. How beautiful they walk, may their mother be a sacrifice for them in her heart!",1,0,0,0,0,0,0
+"(Unmarried woman)
+Damts resembles Thotia,
+I can hardly distinguish her in the crowd.
+I saw her... I barely recognized her
+By her gait, by her figure.
+The stallion chews the bit,
+She is firm in the arm.",0,0,0,0,0,0,1
+"(Second Woman) Our Ushisha is also a skillful one, see how he gallops his blue-grey horse!.. When the matter comes to the sword, he won't start cowering either. I wish I could see him then, when he begins to grip his shield.",1,0,0,0,0,0,0
 "(First Woman) I could not look upon my brother, it would stifle my breath: I would turn my face away, I would begin to close my eyes.",0,0,0,0,0,0,1
-"(Second Woman) Not I. A brother’s goodness, well-being, and name, I desire them so, Zekua, as a candle in the darkness, as rest and food for the weary and the hungry. It is good when a brother’s virtue is spoken of by all.",1,0,0,0,0,0,0
-"(First Woman) Who wouldn't want that, to look fair? Who is so shallow-minded? But a sister's eyes are scorched with grief, seeing her brother in distress.",0,0,0,1,0,0,0
+"(Second Woman) Not I. A brother’s well-being, good life, and name I desire so, Zekua, as a candle in the darkness, as rest and food for the weary and the hungry. It is good when a brother’s goodness is spoken of by all.",1,0,0,0,0,0,0
+"(First Woman) Who does not want that, to look fair? Who is so shallow-minded? But a sister’s eyes are scorched with grief, seeing her brother in distress.",0,0,0,1,0,0,0
 "(Second Woman) Without it, who will give him a name, if he has not done the deed?!",0,1,0,0,0,0,1
-"(In unison) O God, help them; O Icons, lead the warriors; show them to us just as unharmed as we see them now.",1,0,0,0,0,0,1
-"Many hearts were troubled by a thousand kinds of fear – let no one be surprised, for this is the nature of our kind: that in times of peril, we recall our beloved ones with dread!..",0,0,0,0,1,0,0
-"XI. The army lined up on the mountain, gathering on the great plain. The glint of rifles and weapons rivals the sunlight. Boulders, torn loose by horses' hooves, roll down the slopes. Right there they held a council on how to meet the enemy: whether to descend to the plain or meet them on the ridge. All are standing, hands resting on their swords. Everyone fixed their eyes on Mindia, waiting for an answer; since he said nothing, the Khevsurians spoke to him with one voice.",0,0,0,0,0,0,1
-"(The Host) We have always preferred your counsel, and no harm has ever befallen us. Advise us how to act; is your answer so brief?!",1,1,0,0,0,0,1
-"(Mindia) I can offer you no counsel, Khevsurians, I am no longer fit to be an advisor: that was another time, another wisdom; now, my advice will hardly serve you. Weigh it well, you are an army; unite your thoughts as one. I must fight alone, which is why I have come out to the field; or when did the people ever make me their leader for eternity?!",0,1,0,0,0,0,0
-"(The Host) May God and the Icon be wrathful toward whoever sets foot for war beyond your counsel, even if they are struck upon the head with fists: let him die, and let his mouth be filled with the clay of the cold grave.",0,0,1,0,0,0,0
-"(Mindia) Very well… what can I do? I did not wish to be drawn into giving counsel. I shall tell you, since you have entangled me in so many oaths and curses. I can advise you nothing else: meet the Kists in the poisoned ravine.",0,1,0,0,0,0,1
-"An unpleasant whispering broke out among the riders; the place chosen to face the Kists bred sorrow. Yet what could they do? Nothing, for they had given their word and sworn an oath. The host cannot refuse; they must go where Mindia pointed out the battlefield, even if not a single soul survives, even if all remain there dead.",0,0,0,0,0,0,1
-"No more can be said of them; they have departed, raising the banner before them. They march with light steps, resembling soaring falcons, carrying with them the sun's rays upon the tips of their gleaming spears.",0,0,0,0,0,0,1
-"XII. For two days now, there has been war beyond the mountain, a great woe: it is a most fierce battle, tigers have clashed with lions, and a rope of blood has stretched from the mountain down to the marsh. The Deity will not look upon both alike; to one, He shall grant the victory.",0,0,0,0,0,0,1
-"Five or six Khevsurians, with faces blackened,
-Were carrying a man, bound fast with a *kabalakhi*.
-They brought him over to this side, threw him down upon the plain,
-And with wrathful lips, they addressed him with reproach.",0,0,1,0,0,0,1
-"(The Khevsurs together) Man, why do you force your own death, why do you crave death so? As you push deep into the enemy's ranks, don't you see what they are doing?! Until today we were the ones who trampled them, but now they walk over us; and perhaps, Mindia, we should find another way, we shall try, for the dusk has overtaken us as we have spent our strength this night.",0,1,0,0,0,0,1
-"They said this and at that moment turned back, fleeing like thieves; their swords are drawn, and they hold spears in their hands. It is hard, if we consider it, these moments of life and death; what can they do! If they are shamed, it is hard: they will be dressed in gowns, veils will be placed upon their heads, and their hats will be removed, if they do not exert themselves—like cowards, the wretched ones.",0,0,0,0,0,0,1
-"The captive gnashes his teeth and tries to free his hands; he struggles for a long time, rolling about, burning with anguish. He longs to die with his brothers, who are no longer left whole; they are in distress, and there is no army left to come to their aid.",0,0,0,1,0,0,1
-"The night had deepened well, the captive fulfilled his desire,
-Both hands were freed, he stood up weary,
-And then he saw fires in the villages—an ill omen.
-He understood what had happened; he needed no seer.
-He froze, turned pale, yet no tears welled in his eyes;
-They were all dammed in his heart and scattered through his limbs…
-He takes off his hat… could speak no word, touched the sword’s hilt with his thumb,
-Drew it from the scabbard, pressed the tip against his heart.
-From his chest, blood, like a spring, gushed out in a torrent,
-The moon also shone down from the ridge of the ibex-haunts
-And stared at the suicide with the pallor of a mourning woman…",0,0,0,0,0,0,1
-"The breeze too wandered carefree, with a gentle song...
+"(Common voice) God, help them; O Icons, lead the warriors; show them to us just as unharmed as we see them now.",1,0,0,0,0,0,1
+"Many a heart was troubled by a thousand kinds of fear – let no one be surprised, for this is inherent in our human nature, that in times of danger we should recall our beloved with fear!..",0,0,0,0,1,0,0
+"XI. The army lined up on the mountain, gathering on the great plain.
+The glint of guns and weapons rivals the light of the sun.
+Boulders torn loose by horses' hooves roll down the slopes.
+Right there they held a council on how to meet the foe:
+Whether to descend to the plain or meet them on the ridge.
+All are standing on their feet, hands resting on their swords.
+All eyes were fixed on Mindia, waiting for his word:
+While he said nothing to them, the Khevsurians spoke as one.",0,0,0,0,0,0,1
+"(The army) We have always preferred your advice, and no harm has ever come to us. Advise us how to act; is your answer brief?!",1,0,0,0,0,0,0
+"(Mindia) I can advise you nothing, Khevsurians, I am no longer fit to be a counselor: that was another time, another mind, now my advice will hardly serve you. Weigh it well, you are an army, bind your thoughts into a whole. I must fight alone, that is why I have come out to the field; or when did the people make me their leader for eternity?!",0,0,1,0,0,0,1
+"(The Host) May God and the holy icon be wrathful toward anyone who steps beyond your counsel for battle, even if they are struck upon the head with fists: let him die, and let his mouth be filled with the clay of the cold grave.",0,0,1,0,0,0,0
+"(Mindia) It is well… what can I do, I did not wish to be involved in giving advice. I will tell you, since you have woven me into so many oaths and curses. I can advise you nothing else: meet the Kists in the Poisoned Ravine.",0,0,0,0,0,0,1
+"An unpleasant whispering broke out among the riders;
+The place for meeting the Kists bred a sense of sorrow.
+Yet what can they do?.. Nothing, since they have spoken and sworn,
+The host cannot refuse; they must march toward that place,
+Where Mindia pointed out the site of the battle,
+Even if not a single one survives, and all remain there dead.",0,0,0,1,0,0,0
+"Nothing more can be said of them, they have departed, they raised the banner of old; they tread lightly, like soaring falcons, taking with them the sun's ray on the tips of their glittering spears.",0,0,0,0,0,0,1
+"XII. For two days now, there has been war beyond the mountain, a great woe:
+It is a most fierce battle, tigers have clashed with lions,
+And a rope of blood has stretched from the mountain down to the marsh.
+The Deity will not look upon both equally; to one, He shall grant victory.",0,0,0,0,0,0,1
+"Five or six Khevsurs, with faces blackened,
+Were bringing a man, bound by his hands with a kabalakhi.
+They brought him over to this side, threw him down on the plain,
+And with reproach, the wrath-filled men addressed him.",0,0,1,0,0,0,1
+"(Khevsurians together) Man, why do you needlessly kill yourself, do you seek death in vain? When you charge into the heart of the enemy's army, don't you see what they are doing?! Until today we were the ones who trampled them, now they are the ones walking over us; and perhaps, Mindia, we should find another way, we will try, for twilight has overtaken us as we have toiled through this night.",0,1,0,0,0,0,1
+"They said this and at that moment turned back, fleeing like thieves; their swords are drawn, and they hold spears in their hands. It is hard, if we consider it, these moments of life and death; what can they do! To be shamed is hard: gowns will be put upon their bodies, headscarves will cover their heads, and their hats will be removed, if they do not strive—like cowards, the wretched ones.",0,0,0,1,0,0,1
+"The captive gnashes his teeth and strives, seeking to free his hands; he struggles long, rolling about, feverish with grief. He longs for death with his brothers, who are no longer left whole; they suffer, and nowhere is there an army to come to their aid.",0,0,0,1,0,0,1
+"Night had deepened well, the captive fulfilled his desire, both hands were freed, he stood up weary and at this time he saw fires in the villages, – an ill omen. He understood what had happened, no longer needing a seer. He froze, turned pale, yet no tears came to his eyes; they were all dammed in his heart and scattered in his arms… He takes off his hat… could say no word, touched the sword’s hilt with his thumb, drew it from the scabbard, pressed the tip to his heart. From his chest blood, like a spring, gushed out in a torrent, the moon also shone down from the ridge of the ibex haunts and stared at the self-slayer with the hue of a mourning woman…",0,0,0,0,0,0,1
+"The breeze wandered carefreely, with a soft song...
 Its wing brushes the tip of the sword, bared like a tongue,
-Stained crimson with the life-blood of a man’s breast,
-And it would frolic upon the green, free, joyful, and whistling.",0,1,0,0,0,0,1
+Stained crimson with the life-blood of a man’s chest,
+And it would frolic on the green, free, joyful, and whistling.",0,1,0,0,0,0,1

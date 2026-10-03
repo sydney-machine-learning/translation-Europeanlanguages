@@ -3,70 +3,70 @@ Damn! Someone spilled something.,0,0,1,0,0,0,0
 Drink. It's still early.,0,0,0,0,0,0,1
 How about one for the road?,0,1,0,0,0,0,1
 What do you think?,0,1,0,0,0,0,1
-"- Take this away.
-- Of course, the Prohibition Law.",0,0,0,0,0,0,1
+"- Take it away.
+- Of course, the Prohibition Act.",0,0,0,0,0,0,1
 """Alcohol is the scourge of humanity.""",0,0,0,0,0,0,1
-Then let's drink beer.,0,0,0,0,0,0,1
+Then let's have a beer.,0,0,0,0,0,0,1
 Is he coming with us?,0,1,0,0,0,0,1
-"Don't worry. He is Otreya.
+"Don't worry. He's from there.
 He also needs to go there.",1,0,0,0,0,0,0
 "- Are you really a professor?
 - If you want.",0,1,0,0,0,0,1
-"In that case, let me introduce myself.
+"In that case, allow me to introduce myself.
 My name is -",0,0,0,0,0,0,1
 They call him a writer.,0,0,0,0,0,0,1
-And what is my name?,0,1,0,0,0,0,1
+And what's my name?,0,1,0,0,0,0,1
 You are a professor.,0,0,0,0,0,0,1
 Of course.,0,0,0,0,0,0,1
-"I am a writer, so naturally
+"I'm a writer, so naturally
 Everyone calls me a writer.",0,0,0,0,0,0,1
 "- What are you writing about?
 - About my readers.",0,1,0,0,0,0,1
-There is no point in writing about anything else.,0,0,1,0,0,0,1
-"There is no point
-in writing about anything.",0,0,1,0,0,0,1
+There is no point in putting anything else in writing.,0,0,1,0,0,0,1
+There is no point in writing about anything.,0,0,1,0,0,0,1
 What are you? A chemist?,0,1,0,0,0,0,1
 I would say a physicist.,0,0,0,0,0,0,1
-"That is probably tiring too.
-I am looking for the truth.",0,0,0,0,0,0,1
+"This is probably tiring, too.
+Searching for the truth.",0,0,0,1,0,0,1
 You dig here and there.,0,0,0,0,0,0,1
-True. The nucleus consists of protons.,1,0,0,0,0,0,1
+Correct. The nucleus consists of protons.,1,0,0,0,0,0,0
 This is a good excavation.,1,0,0,0,0,0,0
-"Triangle ABC is equal to triangle A prime, B prime, C prime.",0,0,0,0,0,0,1
+"Triangle ABC is congruent to triangle A prime, B prime, C prime.",0,0,0,0,0,0,1
 "But with me, it's a different matter.",0,0,0,0,0,0,1
-"I dig for the truth, but while I am doing so, something happens to it.",0,0,0,0,0,0,1
-Truth turns into a pile -,0,0,0,0,0,0,1
+"I dig for the truth, but while I'm doing it, something happens to it.",0,0,0,0,0,0,1
+Truth turns into a heap -,0,0,0,0,0,0,1
 I won't say what.,0,0,0,0,0,0,1
 This is just for you.,0,0,0,0,0,0,1
 Let's say there is some kind of antique pot in a museum.,0,0,0,0,0,0,1
-"In its time, it was a trash can.",0,0,0,0,0,0,1
-"But now, it delights with its simplicity of line and unique form.",0,1,0,0,0,0,0
-And it's always ohs and ahs.,0,0,0,0,0,0,1
-Suddenly it turns out not to be an antique at all.,0,0,0,0,0,1,1
-He was put there by the Joker for a laugh.,0,1,0,0,0,0,1
-"The sounds of admiration are dying.
-Some connoisseurs!",0,1,0,0,0,0,0
+"In its time, this was a trash can.",0,0,0,0,0,0,1
+But now its simplicity of line and unique form are captivating.,1,0,0,0,0,0,0
+And everyone's oohing and aahing.,0,0,0,0,0,0,1
+"Suddenly it turns out
+not to be an antique at all.",0,0,0,0,0,1,1
+He was planted by the Joker for a laugh.,0,1,0,0,0,0,1
+The sounds of admiration are dying away. Some connoisseurs!,0,1,0,0,0,0,0
 Is this what you think about all the time?,0,1,0,0,0,0,1
 God forbid.,0,0,1,0,0,0,0
-I rarely think. It's bad for me.,0,0,0,1,0,0,0
-It is impossible to write and keep thinking about success or failure.,0,0,0,0,0,0,1
-<i> of course. </i>,0,0,0,0,0,0,1
+I rarely think. It is bad for me.,0,0,0,1,0,0,0
+"It is impossible to write and keep
+thinking about success or failure.",0,0,0,0,0,0,1
+*of course.*,0,0,0,0,0,0,1
 "But on the other hand, if my books are not read for 100 years,",0,0,0,0,0,0,1
 Why write?,0,1,0,0,0,0,1
 "Tell me, professor, why did you take part in this business?",0,1,0,0,0,0,1
 What is your zone?,0,1,0,0,0,0,1
-"Well, in a sense, I'm a scientist.",1,0,0,0,0,0,1
+"Well, in a sense, I am a scientist.",1,0,0,0,0,0,1
 What's in it for you?,0,1,0,0,0,0,1
-Trendy author ...,0,0,0,0,0,0,1
-... Women pounced on you.,0,0,0,0,0,0,1
-I lost my inspiration.,0,0,0,1,0,0,0
+Fashionable author ...,0,0,0,0,0,0,1
+... Women threw [it] over you.,0,0,0,0,0,0,1
+I have lost my inspiration.,0,0,0,1,0,0,0
 I am going to ask some.,0,0,0,0,0,0,1
-So you have exhausted your talent?,0,1,0,0,0,0,0
+So you've exhausted your talent?,0,1,0,0,0,0,0
 "What? Yes, in a sense.",0,0,0,0,0,0,1
-Do you hear that? That's our train.,0,1,0,0,0,0,1
+Do you hear that? That’s our train.,0,1,0,0,0,0,1
 "Did you remove the top part of the machine?
 - it is disconnected.",0,1,0,0,0,0,1
-Ruvjer.,0,0,0,0,0,0,1
+Ruvier.,0,0,0,0,0,0,1
 "If I don't return, tell my wife.",0,0,0,0,0,0,1
 Damn! I forgot to buy cigarettes.,0,0,0,0,0,0,0
 Don't come back.,0,0,1,0,0,0,1
@@ -74,6 +74,6 @@ Don't come back.,0,0,1,0,0,0,1
 - Okay...",0,1,0,0,0,0,1
 "- You're all like that.
 - Like what?",0,1,0,0,0,0,1
-You believe in any superstitious nonsense.,0,0,1,0,0,0,1
+You believe in any superstitious rubbish.,0,0,1,0,0,0,1
 I'll have to save them for a rainy day.,0,0,0,0,0,0,1
 Are you really a scientist?,0,1,0,0,0,0,0

@@ -1,0 +1,35 @@
+text,love,joy,anger,sadness,fear,surprise,neutral
+Why did you take my watch?,0,1,0,0,0,0,1
+Where are you going?,0,1,0,0,0,0,1
+You gave me your word. I believed you.,1,0,0,0,0,0,0
+"You don't think about yourself.
+But what about us?",0,1,0,0,0,0,1
+Think of your daughters.,0,0,0,0,0,0,1
+"She's not even used to you yet
+And you will return to your old ways.",0,0,0,0,0,0,1
+"You turned me into an old hag
+ruined my life",0,0,1,1,0,0,0
+"Quiet. You yawn, monkey.",0,0,0,0,0,0,1
+"I can't spend my life waiting for you.
+They killed her.",0,0,1,0,0,0,0
+You were going to get a proper job.,1,0,0,0,0,0,1
+"They promised you a decent, normal job.",1,0,0,0,0,0,1
+I will be back soon.,0,1,0,0,0,0,1
+You will go back to prison.,0,0,0,0,0,0,1
+"Next time they'll give you ten years
+instead of five.",0,0,0,0,0,0,1
+"Nothing to show you either
+for these ten years.",0,0,0,0,0,0,1
+"No zone, no что -либо.",0,0,0,0,0,0,1
+And ten years later she died.,0,0,0,1,0,0,1
+"""Prison""? She was locked up everywhere.",0,0,0,0,0,0,1
+"let me go
+- I won't let you go.",0,0,0,0,0,0,1
+"- let me go
+- I won't!",0,0,1,0,0,0,1
+Then go on!,0,0,0,0,0,0,1
+And let you rot there!,0,0,0,0,0,0,1
+"I cursed her the day I met you, you dark one!",0,0,1,0,0,0,0
+"God curse you, I send you this child.",0,0,1,0,0,0,0
+"And he cursed me because of you.
+You bastard!",0,0,1,0,0,0,0

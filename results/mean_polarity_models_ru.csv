@@ -1,5 +1,5 @@
 Model,Mean,Standard Deviation
 Human Expert,0.011,0.23
 Google Translate,0.014,0.216
-Gemini,0.023,0.228
-GPT-5.4-mini,0.016,0.214
+Gemini,0.016,0.215
+GPT-5.4-mini,0.015,0.215
